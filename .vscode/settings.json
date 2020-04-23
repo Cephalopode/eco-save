@@ -1,0 +1,11 @@
+{
+  "prettier.printWidth": 160,
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "/eco-save/.*",
+        "cmd": "open -g -a 'Google Chrome' 'http://reload.extensions'"
+      }
+    ]
+  }
+}

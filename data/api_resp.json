@@ -1,0 +1,938 @@
+[
+  {
+    "FIELD1": 0,
+    "titre": "Savon bio élaboré avec 20 % de lait de chèvre www.laboutiquedusavon.com",
+    "desc": "Savon bio nature au lait de chèvre pour peaux sensibles. Savon naturel doux et surgras, obtenu par saponification à froid d'huiles végétales biologiques. Savon sans parfum, élaboré avec 20% de lait de Chèvre bio.",
+    "price": 6,
+    "photo": "https://laboutiquedusavon.com/639-large_default/savon-bio-nature-au-lait-de-chevre.jpg",
+    "labels": "['nature_progres', 'saponification_a_froid']",
+    "url": "https://laboutiquedusavon.com/savons-solides-naturels-et-bio/469-savon-bio-nature-au-lait-de-chevre.html"
+  },
+  {
+    "FIELD1": 1,
+    "titre": "Après-shampooing bio Avoine & Sauge - cheveux secs - abîmés - frisés - crépus.",
+    "desc": "Après-shampooing bio Avoine et Sauge Ibbeo Cosmétiques. Recommandé pour les cheveux secs, abîmés, frisés ou crépus. Après-shampooing bio fortifiant et démêlant à base de lait d'avoine, hydrolat de sauge, miel vinaigre de cidre au romarin et à la sauge bio.",
+    "price": 14.5,
+    "photo": "https://cdn1.aucoeurdesracines.fr/1337-large_default/apres-shampooing-avoine-and-sauge.jpg",
+    "labels": "['nature_progres', 'agriculture_biologique']",
+    "url": "https://aucoeurdesracines.fr/apres-shampooing-et-demelant/apres-shampooing-avoine-and-sauge.html"
+  },
+  {
+    "FIELD1": 2,
+    "titre": "Savon Lait d'ânesse Nature 100gr - Diâne",
+    "desc": "Savon Lait d’ânesse Nature : Un savon contenant au moins 10% de lait d’ânesse frais et Bio transformé directement à la ferme. Pour une hygiène douce, précieuse, et respectueuse de l'environnement!",
+    "price": 5.86,
+    "photo": "https://static.greenweez.com/images/products/49000/600/diane-savon-lait-d-anesse-nature-100gr.jpg",
+    "labels": "['nature_progres', 'saponification_a_froid', 'agriculture_biologique', 'demeter', 'made_in_france', 'no_animal_test', 'recyclable']",
+    "url": "https://www.greenweez.com/diane-savon-lait-d-anesse-nature-100gr-p49354"
+  },
+  {
+    "FIELD1": 3,
+    "titre": "Cosmo Naturel Shampooing usage fréquent (500 ml) - HygiÃšne et Soins du corps",
+    "desc": "Associant l’extrême douceur du miel, de l’avoine et du calendula, il permet des lavages fréquents, sans irriter le cuir chevelu et en laissant force, brillance et douceur aux cheveux. Renouveler si nécessaire. Label Nature et progrès.",
+    "price": 11.21,
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/81RsDvjPZlL._AC_SY879_.jpg",
+    "labels": "['nature_progres', 'no_animal_test']",
+    "url": "https://www.amazon.fr/Cosmo-Naturel-Shampooing-usage-fr%C3%A9quent/dp/B003U9LQ1A/ref=sr_1_4?keywords=Nature+Progr%C3%A8s&qid=1580218546&sr=8-4"
+  },
+  {
+    "FIELD1": 4,
+    "titre": "Baume - Sensation chauffante - Celtique",
+    "desc": "Le baume Celtique est un baume de massage 100% naturel. Au camphre, c'est le plus puissant de la gamme. Un baume parfaitement adapté aux sportifs. Il permet de préparer les mucles à l'effort et de les détendre après l'activité physique. Il s'applique sur les muscles, les articulations et les tendons, avec un effet chauffant. Une toute petite quantité suffit. Ce baume bio est aussi adapté aux coups de froid avec des vertus respiratoires, et peut également soulager les piqûres de moustiques et les maux de tête. Appliquer sur la zone concernée et masser légèrement (muscle, articulation, tempes). Pour des grandes zones, préférer. Ne pas utiliser sur le visage. Ne pas utiliser en cas de grossesse ou allaitement.",
+    "price": 11.8,
+    "photo": "https://media.cdnws.com/_i/25348/5295/1668/97/baume-massage-bio-celtique-15-ml.jpeg",
+    "labels": "['nature_progres', 'agriculture_biologique', 'made_in_france', 'cosmebio', 'one_voice']",
+    "url": "https://www.doux-good.com/la-petite-pharmacie-bio/baume-sensation-chauffante-celtique.html"
+  },
+  {
+    "FIELD1": 5,
+    "titre": "athéna – Saponisphere",
+    "desc": "Découvrez une esthétique de caractère et pleine de peps, en parfaite harmonie avec la sobriété distinguée de son parfum. Pour elle ! athéna est un savon pour le visage et le corps au sel de Guérande, au kaolin et au charbon actif. Il est enrichi à l’huile d’argan qui est exceptionnellement riche en vitamine E anti-oxydante. Ce savon à froid est formulé avec des beurres bio de cacao et de karité et des huiles bio de coco, olive, ricin, palme et colza. Sa mise en parfum est faite aux huiles essentielles bio de bergamote et de patchouli. athéna est surgras à 8 % et est naturellement riche en glycérine végétale, il vous lavera tout en douceur et vous protègera jour après jour, pour une peau lisse, saine et unifiée. Précautions d’emploi : Ce savon est parfumé aux huiles essentielles, de ce fait il ne convient pas aux enfants de moins de 3 ans, ni aux femmes enceintes ou allaitantes. En cas de contact avec les yeux, bien rincer. pour tous types de peaux, pour le visage et le corps, à utiliser à volonté ! Kaolin, argile blanche : Kaolin.",
+    "price": 16,
+    "photo": "http://cdn.shopify.com/s/files/1/2570/8146/products/athena_800x800_DSC3890_1200x1200.jpg?v=1535616657",
+    "labels": "['saponification_a_froid', 'agriculture_biologique', 'cruelty_free_peta', 'vegan', 'biodegradable']",
+    "url": "https://saponisphere.com/collections/savons/products/athena"
+  },
+  {
+    "FIELD1": 6,
+    "titre": "BULLE DE SÈVE - Savon peau sensible sans huile essentielle - 100g - les-savons-d-amelie",
+    "desc": "Ce savon, sans parfum, convient aux personnes ne devant pas s’exposer aux huiles essentielles (femmes enceintes et bébés) ou sensibles aux allergènes. Particulièrement doux et surgras, ce savon est issu d’un mélange équilibré de six huiles végétales différentes, qui permettra au film hydrolipidique de votre peau de se régénérer tout en douceur. Teint grâce aux ocres de Provence, il est enrichi à la sève de bouleau bio de Sologne, réputée pour ses vertus purifiantes et régénératrices. Certifié COSMOS ORGANIC par Cosmécert selon le référentiel COSMOS. Convient à tous les publics et à tous les types de peaux.",
+    "price": 5.5,
+    "photo": "https://static.wixstatic.com/media/785850_789980ec395346e18157a4f5085a0f01~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "labels": "['agriculture_biologique', 'cosmebio', 'cosmos_organic', 'vegan']",
+    "url": "https://www.savons-amelie.com/page-produit/bulle-de-s%C3%A8ve-savon-peau-sensible-sans-huile-essentielle-100g"
+  },
+  {
+    "FIELD1": 7,
+    "titre": "Savon Ourson Camomille-Calendula - saponification à froid - Le SÉCHOIR à BULLES",
+    "desc": "Le calendula et la camomille adoucissent, les huiles de chanvre et macadamia hydratent, nourrissent et régénèrent les peaux les plus fragiles. À base d'huiles bio saponifiées (olive, coco, beurre de karité, colza, chanvre), macadamia, macérat de calendula et camomille. Pour les peaux très sensibles, convient aux enfants - Sans parfum.",
+    "price": 4,
+    "photo": "https://image.jimcdn.com/app/cms/image/transf/none/path/sacdcc8e2e6d932c0/image/i8dc2d2218e7b09fc/version/1509467413/image.png",
+    "labels": "['saponification_a_froid']",
+    "url": "https://www.lesechoirabulles.com/la-boutique/les-savons/ourson-camomille-calendula/"
+  },
+  {
+    "FIELD1": 8,
+    "titre": "Nabür - Savon Soufre et Glycérine Végétal - Arbre à thé BIO - Olive - Coco - Karité - Laurier - Peau Grasse - Acné - Peau à problèmes - Eczéma - Démangeaisons - Saponifié à Froid - Beauté et Parfum",
+    "desc": "NABÜR SAVON AU SOUFRE – Vous avez une peau grasse, ou à tendance acnéique et vous en avez marre ! Profitez de notre petit savon au soufre et huile essentielle d'arbre à thé, fabriqué à la main en France, n'employant que des huiles végétales issues de l'agriculture biologique. Vous souffrez d'eczéma, ou de démangeaisons ? Essayez notre savon et bénéficiez de sa formule 4-en-1 ! Notre savon est enrichi avec 15% d’huile de baie de laurier, huile d’olive et coco, beurre de karité et extrait d’arbre à thé BIENFAITS & BÉNÉFICES – Compagnon de l'adolescence. Notre savon au soufre complétera les médicaments préconisés, et améliore l’allure de la peau en éliminant les bactéries et en réduisant la formation de pus. Vous avez de l’acné, du psoriasis, des problèmes de peaux ? Votre thérapeute vous a recommandé le savon au soufre ? Bénéficiez de notre savon artisanal LA BONNE ODEUR – Imaginez qu’en rassemblant autant de principes actifs, nous obtenions un savon «thérapeutique» à l'odeur si particulière. Vous êtes prévenu, cette odeur va rester sur la peau. ⭐ 100% SATISFAIT REMBOURSÉ - Dites next aux offres trompeuses, made in China et drapeau français en photo. Ajoutez au panier notre savon, vous soutiendrez l'artisanat français et l'agriculture biologique.",
+    "price": 9.97,
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/81H6r1ASVDL._AC_SX679_.jpg",
+    "labels": "['saponification_a_froid', 'agriculture_biologique', 'made_in_france', 'vegan']",
+    "url": "https://www.amazon.fr/Soufre-Glyc%C3%A9rine-Laurier-probl%C3%A8mes-Saponifi%C3%A9/dp/B07SRD4FNF/ref=sr_1_5?keywords=savon+%C3%A0+froid&qid=1580221388&sr=8-5"
+  },
+  {
+    "FIELD1": 9,
+    "titre": "Baume à Lèvres (LIP BALM) - Demeter 15 ml - Martina Gebhardt",
+    "desc": "La Fleur de Bach Tremble (n° 2, Aspen) est destinée aux personnes qui ont des angoisses, des peurs tout en étant incapable d'en déterminer la nature, l'origine. Elles se sentent menacées sans pouvoir dire par qui ou par quoi. Elles diront J’ai peur mais je ne sais pas pourquoi. ou J’ai la sensation qu’un danger me guette mais je ne sais pas lequel.. réduction ou disparition de ces peurs irraisonnées. Les enfants ne sont plus perturbés par des cauchemars.",
+    "price": 6.52,
+    "photo": "https://www.santi-shop.eu/products/500x500/MG/MG023.jpg",
+    "labels": "['agriculture_biologique', 'demeter', 'no_animal_test', 'leaping_bunny']",
+    "url": "https://www.santi-shop.eu/fr/p1425-Baume-a-Levres-LIP-BALM-Demeter-Martina-Gebhardt.html"
+  },
+  {
+    "FIELD1": 10,
+    "titre": "BIO'S - Sauce Tomate et Basilic Biologique Italien - DEMETER certifié biodynamique - 350gr - Epicerie",
+    "desc": "Produit choisi parmi Delizioso Shop BIO est le fruit de la Terre et le Soleil, qui compte 25 ans d'expérience dans le monde biologique.",
+    "price": 0,
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/81U1s65bCRL._AC_SX679_.jpg",
+    "labels": "['demeter']",
+    "url": "https://www.amazon.fr/BIOS-Basilic-Biologique-certifi%C3%A9-biodynamique/dp/B01NCV4CHT"
+  },
+  {
+    "FIELD1": 11,
+    "titre": "Set de 6 Poudres de Piment \"Chef de Cuisine\"",
+    "desc": "Pour les fans de piment ou ceux désirant essayer ! Banana Pepper Powder. Piment banane Chilli Powder Erotico. Piment Erotico Jalapeno en poudre. Piments Jalapeno Scotch Bonnet Powder. Piment Scotch Bonnet Habanero Powder R.S.. Piment Habanero Trinidad Scorpion Moruga Yellow Powder. Trinidad Moruga Scorpion.",
+    "price": 40.89,
+    "photo": "https://cdn-pi.niceshops.com/upload/image/product/medium/default/peperita-set-de-6-poudres-de-piment-chef-de-cuisine-1-piece-429987-fr.jpg",
+    "labels": "['demeter', 'co2_neutral']",
+    "url": "https://www.piccantino.fr/peperita/set-de-6-poudres-de-piment-chef-de-cuisine"
+  },
+  {
+    "FIELD1": 12,
+    "titre": "première couche piscine écologique made in France - Tidoo",
+    "desc": "Nos culottes d’apprentissage TIDOO sont à la fois écologiques, efficaces et made in France. Elles ne contiennent aucun ingrédient indésirable. Elles s’enfilent et s’enlèvent comme une culotte, idéales pour l’apprentissage de la propreté de bébé, pour que l’entrée à l’école soit un moment unique et sans tracas ! Pratique pour l’apprentissage de la propreté 60% de cellulose certifiée FSC 0% latex, chlore, petrolatum.",
+    "price": 8.9,
+    "photo": "https://www.tidoo.com/wp-content/uploads/2019/01/SwimmersX3.png",
+    "labels": "['made_in_france', 'forest_stewardship_council']",
+    "url": "https://www.tidoo.com/la-boutique-tidoo/couche-culotte/tidoo-nature-swimplay/"
+  },
+  {
+    "FIELD1": 13,
+    "titre": "crème lavante bébé bio made in France - TIDOO",
+    "desc": "La crème lavante nourrissante à la fleur d’oranger bio nettoie en douceur la peau de bébé, tout en la préservant du dessèchement cutané et des agressions extérieures. Afin de garantir hydratation et douceur à la peau de bébé, la crème lavante a été enrichie en beurre de karité bio aux vertus nourrissante et protectrice. Tidoo a également choisi l’huile de tournesol bio, idéale pour lutter contre la sécheresse de la peau. Grâce à ses propriétés adoucissantes et apaisantes, la crème lavante nourrissante transformera le bain en un moment de détente et de douceur, tout en protégeant la peau de bébé.. Enrichie en Beurre de Karité Bio, la Crème lavante nourrissante Tidoo® Baby Care nourrit et protège la peau de la sécheresse et des agressions extérieures. La Fleur d’Oranger Bio est reconnue pour ses vertus adoucissantes et sa senteur apaisante. L’Huile de Tournesol Bio prévient le dessèchement cutané.. Testé sous contrôle dermatologique et ophtalmologique Ne pique pas les yeux Sans savon, ni phénoxyéthanol Adapté aux peaux sensibles Ecologie :. Lors de la toilette, appliquez la crème sur les cheveux et la peau préalablement mouillés de bébé. Masser délicatement puis rincer abondamment.",
+    "price": 6.5,
+    "photo": "https://www.tidoo.com/wp-content/uploads/2019/05/Crème_lavante.png",
+    "labels": "['agriculture_biologique', 'made_in_france', 'no_animal_test', 'cosmebio']",
+    "url": "https://www.tidoo.com/la-boutique-tidoo/soin/creme-lavante-bebe-bio/"
+  },
+  {
+    "FIELD1": 14,
+    "titre": "lingettes bébé compostables made in France",
+    "desc": "Idéales pour la toilette délicate de la peau de bébé (siège, visage et mains), les lingettes bébé au calendula bio sont 100% compostables grâce à leur procédé de fabrication unique et non polluant. Certifiées ECOCERT, FSC, COSMOS NATURAL et OK Compost Home, les lingettes naturelles prennent soin de la peau sensible de votre enfant grâce à leur formule très douce, à base d’actifs d’origine végétale, tels que : – L’extrait de calendula dont les vertus apaisantes étaient déjà connues dans les régions méditerranéennes il y a des siècles, – L’aloe vera, qui hydrate la peau en profondeur. Délicatement parfumées au lotus blanc, discret, agréable et rafraîchissant, elles laissent une peau douce, propre et fraîche.. Douces et ultra-résistantes, les Lingettes Tidoo® Baby Care sont idéales pour la toilette délicate de la peau de bébé, notamment les zones du siège, le visage et les mains Formule très douce à base d’actifs d’origine végétale Bio, tels que le Calendula aux vertus apaisantes et régénérantes et l’Aloe Vera qui hydrate la peau en profondeur.. Sans savon, alcool, ni phénoxyéthanol Sans parfum de synthèse Hypoallergéniques Testé sous contrôle dermatologique Ecologie :. Non tissé 100% compostable et biodégradable.",
+    "price": 3.9,
+    "photo": "https://www.tidoo.com/wp-content/uploads/2018/12/Lingettes_compostables.png",
+    "labels": "['agriculture_biologique', 'made_in_france', 'no_animal_test', 'forest_stewardship_council', 'ok_compost', 'ok_home_compost', 'ecocert', 'cosmos_natural', 'biodegradable']",
+    "url": "https://www.tidoo.com/la-boutique-tidoo/lingette-et-coton/tidoo-care-lingettes-parfum-naturel-au-calendula-bio/"
+  },
+  {
+    "FIELD1": 15,
+    "titre": "Taie d'oreiller en bambou – Bambaw - zéro déchet - produits durables",
+    "desc": "Objectif Zéro Déchet Le linge de lit est généralement composé de coton provenant de cultures non durables ou d’un mélange de coton et de polyester. Le coton est principalement issu de monocultures qui nécessitent énormément d’eau et de pesticides. La WWF estime que 20 000 litres d’eau sont nécessaires pour produire un kilo de coton. Le coton occupe seulement 2,5 % des terres agricoles mondiales ; pourtant, il consomme entre 16% et 25 % des insecticides utilisés dans le monde entier. La culture de coton est un désastre pour l’environnement. Les pesticides et les fertilisants toxiques nuisent à la santé des travailleurs et érodent les sols, qui auront besoin de plus de fertilisants par la suite : c’est un cercle vicieux. Le linge de maison composé d’un mélange de coton et de polyester est encore plus nocif pour l’environnement, puisque.",
+    "price": 14.99,
+    "photo": "http://cdn.shopify.com/s/files/1/0022/6885/6383/products/Bamboo-pillow-case-white_grande.jpg?v=1579600339",
+    "labels": "['co2_neutral', 'zero_waste', 'oeko_tex']",
+    "url": "https://www.fr.bambaw.com/products/bamboo-pillow-cases"
+  },
+  {
+    "FIELD1": 16,
+    "titre": "Détergent végétal écologique aux agrumes 1L PHYTOPUR",
+    "desc": "Détergent PHYTOPUR Lavande a été conçue en laboratoire avec un double objectif, l’efficacité et le respect de l’environnement. Le Détergent PHYTOPUR Lavande est très efficace pour nettoyer, désinfecter, dégraisser et désodoriser vos sols. PHYTOPUR Lavande est parfaitement adapté au fosses septiques et toutes eaux, il préserve les nappes phréatiques et participe à la protection de l’environnement. Utilisable sur toutes les surfaces carrelages, faïences, tomettes, planchers... 1 litre = 33 lavages = plus de 3300m2 Notre produit possède un grand nombre de particularités qui sont de véritables avantages concurrentiels, mais c’est aussi ce qui le rend unique sur le marché. Quels sont-ils ? En premier lieu ce produit est un véritable concentré de nature avec 99,9 % d’ingrédients naturels. Les formules PHYTOPUR sont spécialement conçues pour des vertus prouvées de nettoyage, de dégraissage, de désodorisant et détachage. C’est un produit puissant et efficace.. Notre produit est fabriqué en France de façon artisanale et traditionnelle.. Le complexe de totum de plantes permet un nettoyage parfait et respectueux de l’environnement. De ce fait, il possède de nombreux avantages : Il convient parfaitement aux animaux car il n’est pas agressif. Il est composé d’ingrédients 100 % biodégradables. Il préserve les nappes phréatiques. Il est adapté aux fosses septiques et aux fosses toutes eaux, sans perturber la chaine biologique. Il ne possède aucun parfum ni colorant de synthèse. Pas d’agent tensioactifs chimiques ou pétro chimiques. Aucun EDTA, pas de phosphate, d’enzymes issus d’OGM, de NTA, d’éther de glycol, et enfin non testé sur animaux. Ce produit est totalement fabriqué en France dans le Gers, et il est donc créateur d’emplois directs et indi- rects sur place. PHYTOPUR est certifié écologique par ECOCERT GREENLIFE France. Inutile de rincer. Laisser agir, nettoyer avec une éponge puis rincer à l'eau claire. Précautions d'emploi. Eviter tout contact avec les yeux et la bouche. En cas de contact oculaire, laver immédiatement et abondamment avec de l'eau claire. Consulter un médecin si l'irritation persiste. En cas d'ingestion, rincer la bouche avec de l'eau. Ne pas faire vomir Si les troubles persistent, consulter un médecin en lui montrant l'étiquette. En cas de déversement accidentel, laver à grande eau. Tenir hors de portée des enfants. Ne pas exposer auprès d'une source de chaleur ni d'une luminosité intense.",
+    "price": 11.58,
+    "photo": "https://aroflora.com/1157-large_default/detergent-vegetal-ecologique-agrumes.jpg",
+    "labels": "['made_in_france', 'no_animal_test', 'ecocert', 'biodegradable']",
+    "url": "https://www.aroflora.com/entretien-bio-de-la-maison/261-detergent-vegetal-ecologique-agrumes-3760074901968.html"
+  },
+  {
+    "FIELD1": 17,
+    "titre": "Huile de karanja BIO 75ml - Made in France -  ACORELLE",
+    "desc": "Une peau protégée et en bonne santé. Dans cette formule minimaliste, nous avons sélectionné l’ Huile de Karanja bio, reconnue pour ses propriétés protectrices et anti-oxydantes. Originaire d’Inde, cette huile est traditionnellement utilisée dans les rituels de beauté ayurvédiques car elle regorge de propriétés extraordinaires. Extraite par pression des graines de l’arbre de Pongolote, l’huile de Karanja est très riche en molécules anti-oxydantes, qui défendent parfaitement la peau des agressions extérieures comme le soleil. Associée au complexe Api Oléo Actif TM, breveté et 100% d’origine naturelle, la formule prévient la peau du vieillissement cutané ; la peau préserve tout son capital santé. Formulée sans filtres solaires (Dioxyde de Titane, Oxyde de Zinc), cette Huile de Plage anti-oxydante s’applique à la plage en tant que protection solaire naturelle, et résiste à l’eau pour profiter pleinement des activités estivales. Elle est préconisée pour les peaux hâlées et mates. Elle s’utilise également en après-soleil pour nourrir et sublimer la peau. Une formule ultra-sensorielle pour un bronzage lumineux. Sa texture huile au fini transparent et ultra-sensorielle offre une application plaisir sur l’ensemble du corps. La peau est immédiatement plus lumineuse, et le bronzage est sublimé. Sa formule dévoile un doux parfum d’été 100% d’origine naturelle, aux notes de Fleurs d’Amandier, Frangipanier et Vanille, sans substances photosensibilisantes, pour une exposition au soleil sans danger. Son tube délivre la juste dose de produit, pour une application sur le corps facile et rapide. Fondez également pour une protection visage à la texture baume ultra-sensorielle avec notre Protéger notre environnement : une priorité. Chaque ingrédient a été sélectionné pour sa biodégradabilité, et la formule ne contient aucun dérivé d’origine pétrochimique. La haute résistance à l’eau permet de maintenir la majorité de la formule à la surface de la peau pour préserver les océans et les coraux. Cette année, nous avons décidé de rejoindre le réseau 1% for the planet, un réseau international d’entreprises, associations et individus engagés pour la planète. 1% de notre chiffre d’affaires réalisé sur la gamme solaire sera donc reversé à Surfrider Foundation Europe pour la protection des océans et des récifs coralliens. Membre Vertical oui.",
+    "price": 26,
+    "photo": "https://www.acorelle.fr/456-medium_default/huile-de-karanja-bio-75ml.jpg",
+    "labels": "['made_in_france', 'no_animal_test', 'cosmos_organic', 'ecocert', 'vegan', '1_for_the_planet']",
+    "url": "https://www.acorelle.fr/huile-solaire/165-huile-de-karanja-bio-75ml.html"
+  },
+  {
+    "FIELD1": 18,
+    "titre": "Déodorant BIO Naturel Sans Parfum 40gr - ACORELLE",
+    "desc": "Riche en bicarbonate de soude très fin et non abrasif, ce déodorant sans parfum respecte votre peau de façon optimale. Connu et reconnu depuis des centaines d'années pour ses multiples vertus, le bicarbonate de soude lutte efficacement la transpiration sans la bloquer (contrairement aux sels d’aluminium qui se fixent sur la peau), et évite le développement des bactéries responsables des mauvaises odeurs. L'amidon de maïs absorbe l'humidité pour une sensation de confort tout au long de la journée. Cette formule efficace sans huiles essentielles évite les risques d'allergies. Ce déodorant associe beurre de karité, beurre de sal et huile de coco bio pour garantir une texture douce et fondante. Sans huiles essentielles, il convient parfaitement aux femmes enceintes et aux peaux les plus sensibles, pour un rituel beauté des plus naturels. Cette formule naturelle composée de beurres végétaux, s'applique facilement grâce à son format stick.",
+    "price": 7.95,
+    "photo": "https://www.acorelle.fr/396-medium_default/deodorant-bio-naturel-sans-parfum-40gr.jpg",
+    "labels": "['made_in_france', 'no_animal_test', 'cosmos_organic', 'ecocert', 'vegan']",
+    "url": "https://www.acorelle.fr/deodorant-baume/129-deodorant-bio-naturel-sans-parfum-40gr.html"
+  },
+  {
+    "FIELD1": 19,
+    "titre": "Shampoing bio aux Herbes pour cheveux normaux",
+    "desc": "Le shampoing bio aux herbes de la gamme Biocoiff’ est idéal pour les cheveux normaux et les enfants. Adapté à tous les types de cheveux, il est doux et très nourrissant. C’est le shampoing familial par excellence. Le shampoing aux herbes Biocoiff’ nettoie en douceur, et peut être mis dans la salle de bains sans crainte pour vos invités. Composé d’herbes douces, ses propriétés bienfaitrices lui permettent de convenir aux cheveux normaux mais également aux cuirs chevelus à petits problèmes. Il est en fait unique car sa fonction première est de permettre à vos cheveux de retrouver leur équilibre. Et c’est en cela qu’il est si efficace : que vous ayez les cheveux normaux, un cuir chevelu irrité ou alors quelques pellicules, notre shampoing bio aux herbes revitalisera, nourrira vos cheveux à la racine tout en apaisant votre cuir chevelu. Après quelques applications, vous sentirez déjà une différence évidente au toucher, vos cheveux retrouveront souplesse et brillance.",
+    "price": 16,
+    "photo": "https://www.biocoiff.com/wp-content/uploads/2014/05/shampoing-bio-familial.png",
+    "labels": "['cosmebio', 'cruelty_free_peta', 'vegan']",
+    "url": "https://www.biocoiff.com/produit/shampoing-bio-herbes/"
+  },
+  {
+    "FIELD1": 20,
+    "titre": "Correcteur Anti cernes 09 Beige Dore Couleur Caramel 3.5gr",
+    "desc": "Correcteur Anti cernes 09 Beige Doré 3. Couleur caramel Teinte : Beige Doré Contenance : 3.5g Le correcteur anti cernes 09 Beige Doré estompent les imperfections, les cernes et les poches. De plus, ils permettent de modeler certaines zones du visage.",
+    "price": 12.9,
+    "photo": "https://www.mondebio.com/images/correcteur-anti-cernes-09-beige-dore-3-5g-couleur-caramel-11046-S.jpg",
+    "labels": "['agriculture_biologique', 'no_animal_test', 'cosmebio', 'cruelty_free_peta', 'ecocert', 'vegan', 'recyclable']",
+    "url": "https://www.mondebio.com/maquillage-bio/couleur-caramel/correcteur-anti-cernes-09-beige-dore-3-5g/11046.html"
+  },
+  {
+    "FIELD1": 21,
+    "titre": "Huile Sèche Monoï - Embellit et Satine - 100ml - Natessance",
+    "desc": "Conservez toute la beauté de votre bronzage avec cette huile sèche au monoï et à l'ylang-ylang. Elle laisse la peau satinée et agréablement parfumée. Embellie et sublimée, votre peau restera bronzée plus longtemps. Appliquée sur la chevelure, cette huile est également idéale pour nourrir les cheveux secs et abîmés.",
+    "price": 10.67,
+    "photo": "https://www.leanatureboutique.com/8306-large_default/huile-seche-monoi-embellit-et-satine-100ml.jpg",
+    "labels": "['one_voice', '1_for_the_planet']",
+    "url": "https://www.leanatureboutique.com/fr/huiles-vegetales/16172-huile-seche-monoi-embellit-et-satine-100ml-3517360006964.html#ectrans=1"
+  },
+  {
+    "FIELD1": 22,
+    "titre": "i+m Crème Solaire Visage SPF 30 \"Sun Protect\" - 50 ml",
+    "desc": "Doté d'un indice de protection 30, cet écran solaire vegan et résistant à l'eau protège les peaux claires ou foncées de manière fiable des rayons UVA / UVB. La vitamine E a un effet antioxydant. L'huile de tournesol soigne et assouplit la peau. L'extrait de fleur d'Arbre à papillons protège également de la lumière bleue nocive des écrans. Ainsi, la crème peut mieux pénétrer et ne fait pas d'effet masque par la suite. Aqua (Water) Capriylic/capric Triglyceride Olus Oil Coconut Alkanes Titanium Dioxide (nano) Polyglyceryl-2-Sesquioleate Buddleja Officinalis Flower Extract Silica Sodium Chloride Coco Caprylate/ Caprate Propanediol Magnesium Sulfate Citric Acid Parfum (Fragrance) Citral Limonene provenant de l'agriculture biologique contrôlée mélange de parfum 100% naturel provenant d'huiles essentielles naturelles Quel est le SPF qui me correspond ?.",
+    "price": 16.89,
+    "photo": "https://cdn-ec.niceshops.com/upload/image/product/facebook/default/im-creme-solaire-visage-spf-30-sun-protect-50-ml-1192476-fr.jpg",
+    "labels": "['agriculture_biologique', 'cruelty_free_peta', 'co2_neutral', 'vegan', 'bdih']",
+    "url": "https://www.ecco-verde.fr/im-naturkosmetik-berlin/creme-solaire-visage-spf-30-sun-protect"
+  },
+  {
+    "FIELD1": 23,
+    "titre": "Biofficina Toscana Gel Nettoyant Doux \"Family\"",
+    "desc": "Ce gel nettoyant doux et vegan aux tensioactifs d'origine végétale contient également des extraits de calendula et de fenouil. Il est particulièrement doux pour la peau et adapté à la toilette quotidienne du visage, du corps et des mains, ainsi que la zone - et cela pour toute la famille ! Application : Diluer un peu de produit dans le creux de la main avec un peu d'eau, puis utiliser le mélange pour se laver. Rincer ensuite soigneusement. Aqua (Water) Cocamidopropyl Hydroxysultaine Sodium Chloride Sodium Cocoyl Sarcosinate Sodium Olivamphoacetate Sodium Dehydroacetate Citrus Medica Vulgaris Peel Oil Limonene provenant de l'agriculture biologique contrôlée.",
+    "price": 19.62,
+    "photo": "https://cdn-ec.niceshops.com/upload/image/product/facebook/default/biofficina-toscana-mousse-nettoyante-legere-500-ml-1268476-fr.jpg",
+    "labels": "['agriculture_biologique', 'leaping_bunny', 'co2_neutral', 'vegan']",
+    "url": "https://www.ecco-verde.fr/biofficina-toscana/mousse-nettoyante-legere"
+  },
+  {
+    "FIELD1": 24,
+    "titre": "Allonature - Huile minceur bio et naturelle aux huiles essentielles",
+    "desc": "L'huile minceur bio Allonature affine la silhouette, désengorge, draine et raffermit.",
+    "price": 24.83,
+    "photo": "https://www.allonature.com/242-large_default/huile-de-massage-silhouette-200ml.jpg",
+    "labels": "['agriculture_biologique', 'made_in_france', 'cosmebio']",
+    "url": "https://www.allonature.com/fr/gamme-minceur/4-huile-de-massage-silhouette-200ml-3760125131443.html"
+  },
+  {
+    "FIELD1": 25,
+    "titre": "100% Pure Face Palette",
+    "desc": "Formules 100% naturelles : Contiennent également de l'huile de rose musquée et les beurres d'avocat et de cacao Riches en antioxydants et vitamines Remarquables couleurs aux pigments de fruits, de graines, de fleurs et de légumes La palette Pretty Naked, pour un look frais, discret et naturel, aux teintes Nude : Pink Champagne Luminescent Powder Pretty Naked Powder Blush Flax Seed, Toffee & Chestnut Powder Eye Shadows La palette Pretty Naked II, aux teintes chaudes et terreuses, pour un look doux et naturel : Illume Luminizer Afterglow Powder Blush Beam, Splendor & Vivid Powder Eye Shadows La palette Mermaid, aux couleurs ludiques et rêveuses, semblable au coucher de soleil sur la mer : Siren Luminescent Powder Coral Powder Blush Shell Powder, Sea Glass & Star Fish Eye Shadows La palette Punk Princess, pour un look époustouflant et scintillant, surmonté d'un Smokey Eyes - Let's rock! Acoustic Luminescent Powder Sold Out Powder Blush Boyfriends Band, Private Show & Unplugged Powder Eye Shadows La palette Sex Kitten, pour un look absolument sensuel, séduisant et glowy : Sexy Luminescent Powder Allure Powder Blush Risqué, Provocateur & Cat Eyes Powder Eye Shadow La palette Better Naked convainc par ses nuances rosées, taupe et beiges, et ses reflets métallisés dorés. Pink Champagne Luminescent Powder. oryza sativa (rice) starch Rubus Idaeus Fruit (Raspberry) Fragaria Vesca Fruit (Strawberry) Prunus Serotina (Wild Cherry) Fruit Lycium Chinenes Fruit (Goji Berry) Extract Sodium Ascorbate (Vitamin C) Mica (natural shimmery mineral) Pretty Naked Powder Blush. Peut contenir (+/-): Cucurbita Pepo (Squash) Carica Papaya (Papaya) Rubus Fruticosus Fruit (Blackberry) Vaccinium Angustifolium (Blueberry) Rubus Idaeus Fruit (Raspberry) Coffea Arabica (Coffee) Camellia Sinensis (Black Tea) Leaf Euterpe Oleracea (Acai) Lavandula Angustifolia (Lavender) Extract Solanum Lycopersicum Fruit/leaf/stem (Tomato) Red Wine Resveratrol (Wine) Mica (natural shimmery mineral) Flax Seed, Toffee & Chestnut Powder Eye Shadows. oryza sativa (rice) starch Peut contenir (+/-): Cucurbita Pepo (Squash) Carica Papaya (Papaya) Rubus Fruticosus Fruit (Blackberry) Vaccinium Angustifolium (Blueberry) Rubus Idaeus Fruit (Raspberry) Coffea Arabica (Coffee) Camellia Sinensis (Black Tea) Leaf Euterpe Oleracea (Acai) Lavandula Angustifolia (Lavender) Extract Solanum Lycopersicum Fruit/leaf/stem (Tomato) Red Wine Resveratrol (Wine) Mica.",
+    "price": 48.49,
+    "photo": "https://cdn-ec.niceshops.com/upload/image/product/facebook/default/100-pure-face-palette-pretty-naked-763061-fr.jpg",
+    "labels": "['cruelty_free_peta', 'co2_neutral', 'vegan']",
+    "url": "https://www.ecco-verde.fr/100-pure/face-palette"
+  },
+  {
+    "FIELD1": 26,
+    "titre": "NOTOX - Shampoing Solide Naturel - Vegan - Zéro déchet - Pachamamaï",
+    "desc": "NOTOX est un shampoing solide vegan conçu pour les cheveux à tendance grasse. Ses actifs d’origine naturelle - la poudre de tulsi et l’huile végétale de coco - sont notoirement réputés pour contribuer à équilibrer et apaiser votre cuir chevelu, tout en apportant souplesse et brillance à vos cheveux.",
+    "price": 12.5,
+    "photo": "https://cdn.shopify.com/s/files/1/0093/2600/2272/products/PACHAMAMAI-SHAMPOINGS-SOLIDES-notox_maxi_boite_600x.jpg?v=1573811395",
+    "labels": "['made_in_france', 'zero_waste', 'vegan', 'slow_cosmetique', 'recyclable']",
+    "url": "https://pachamamai.com/collections/cheveux/products/shampoing-solide-notox"
+  },
+  {
+    "FIELD1": 27,
+    "titre": "Crème solaire vegan en spray 50ml - UVBIO",
+    "desc": "Le lait solaire SPF 20 est un soin solaire hydratant qui protège la peau des rayons du soleil au quotidien. Le complexe protecteur est une association inédite d’huiles de Karanja, de jojoba, et de coco, et extrait de carotte, associé à un filtre minéral. L’huile de Karanja a, en plus de ses excellentes propriétés hydratantes, nourrissantes et protectrices, la capacité de booster l’efficacité des filtres solaires minéraux de par sa capacité naturelle à absorber les rayons UV du soleil. Résistant à l’eau Sans PEG, ni paraben, ni parfum, ni colorant, ni conservateur issus de la chimie de synthèse 100% naturel, certifié Bio & Vegan Filtre solaire : dioxyde de titane Texture fine et riche qui se fond dans l’épiderme tout en le protégeant efficacement.",
+    "price": 15.9,
+    "photo": "https://www.uv-bio.com/pub/media/catalog/product/cache/6b1c09900b407c50fce2db5e66ebc123/l/a/lait_20__petit.png",
+    "labels": "['made_in_france', 'ecocert', 'vegan']",
+    "url": "https://www.uv-bio.com/fr/spray-solaire-bio-spf-20-50ml-bio-vegan.html"
+  },
+  {
+    "FIELD1": 28,
+    "titre": "crème jour - certifiée Cosmos Organic \"Comptoir des Huiles\" - PEAULETTE",
+    "desc": "Elle offre à tous les types de peaux une hydratation optimale pour un confort immédiat. Sa teneur en acides gras et en Vitamine E aide à lutter contre toutes les formes d’agressions responsables du vieillissement prématuré de la peau. En plus de ses propriétés nourrissantes et hydratantes, La Crème Jour Comptoir des Huiles a également une action lissante immédiate. Au contact de la peau, la crème est rapidement absorbée pour un effet lissant instantané et un fini peau de pêche. Elle préserve l'élasticité et la vitalité de la peau qui reste douce et souple tout au long de la journée. La peau parfaitement nourrie parait repulpée, plus lisse et lumineuse. Ses notes aromatiques de mandarine et de yuzu laissent un parfum frais et délicat très agréable au petit matin. Offrez-vous tous les bénéfices d’un massage minute en effectuant de petits mouvements circulaires sur le visage et le cou, pour bien commencer la journée. Eviter tous contact avec les yeux. En cas de contact, rincer abondamment. Secret de jeunesse Le saviez-vous: Pour garder une belle peau jeune et resplendissante, il faut lui maintenir une hydratation continue. Elle contient naturellement des nutriments qui adoucissent et hydratent la peau: les Acides gras oméga-6 et oméga-9 participent à la reconstruction de l’épiderme et au maintien de l’hydratation. Ils sont également les alliés des peaux ternes et dévitalisées car ils redonnent souplesse et éclat. Les phytostérols et la vitamine E sont des antioxydants naturels qui aident à la réparer la peau et agissent contre les radicaux libres qui accélèrent le vieillissement cutané. Le beurre de karité très riche en insaponifiables, accentue les vertus protectrices et réparatrices de la crème. L’Aloe vera adoucit, protège et hydrate la peau en profondeur grâce à ses formidables propriétés régénérantes. Cette plante est aussi riche en vitamines aux propriétés émollientes. La glycérine hydrate les couches superficielles de l’épiderme. Quelques mots sur Comptoir des huiles... Comptoir des Huiles cultive le ricin et le moringa, pour le reste des huiles végétales de la gamme, les graines sont cueillies en partenariat avec plus de 7000 familles malgaches auxquelles nous fournissons matériel et formation afin de les accompagner dans leur développement. L'équipe Comptoir des Huile ne fait appel à aucun intermédiaire, ce qui permet de maîtriser toute la chaîne de production et d’être transparent auprès des clients et de gérer correctement la traçabilité des produits. Nos huiles sont 100% naturelles et brutes : non raffinées, non transformées, non hydrogénées, elles sont biologiques et issues d’une première pression à froid. La pression à froid est une technique d'extraction qui permet de conserver toutes de l'huile végétale.",
+    "price": 12.72,
+    "photo": "http://cdn.shopify.com/s/files/1/0250/4110/9073/products/product_10757949s_6fdd17f5-16bd-4f6f-b82c-49fb1efc8abf_grande.png?v=1575364382",
+    "labels": "['agriculture_biologique', 'made_in_france', 'cosmos_organic', 'ecocert']",
+    "url": "https://www.peaulette.fr/products/la-creme-jour-certifiee-cosmos-organic?variant=31502565441617"
+  },
+  {
+    "FIELD1": 29,
+    "titre": "Bouillotte Latex FSC avec Housse en Coton Bio 2L - Bonnes idées 24",
+    "desc": "Bouillotte Latex FSC avec Housse en Coton Bio 2L Bonnes idées 24 - Bouillottes classiques - Bouillottes - Bouillotte en latex FSC et housse en coton bio. Un confort et un bien-être au naturel avec des matières écologiques issues du commerce solidaire. 2L.",
+    "price": 22.61,
+    "photo": "https://static.greenweez.com/images/products/22000/600/ecodis-bouillotte-latex-housse-coton-bio-2l.jpg",
+    "labels": "['forest_stewardship_council', 'recyclable']",
+    "url": "https://www.greenweez.com/ecodis-bouillotte-latex-fsc-avec-housse-en-coton-bio-2l-p22214?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA55MfANJOY9ppk5hjf5m4qzFgiV5JCZmCN6c23QBHG6jQVanDAlXsxoCtmQQAvD_BwE"
+  },
+  {
+    "FIELD1": 30,
+    "titre": "Gobelets en carton personnalisés et certifiés écologiques - À partir de 1000 pcs.",
+    "desc": "Recherchez-vous des gobelets en carton biodégradables, qui peuvent être utilisés à plusieurs buts ? Et qui peuvent également promouvoir votre entreprise de manière professionnelle et élégante ? Dans ce cas, les gobelets en carton simple paroi personnalisables de LimePack sont la meilleure solution. Les gobelets en carton simple paroi sont principalement utilisés pour servir des boissons froides ou à température ambiante, et sont donc souvent utilisés pour des sodas, cappuccinos ou autres boissons softs ou pétillantes. Grâce à sa simple paroi, vous n’avez plus besoin de vous soucier de vous brûler les mains quand vous emporter votre boisson préférée. Les gobelets en carton sont produits à base de matériaux biodégradables. Ceci signifie que le plastique PE à l’intérieur du gobelet a été changé pour du plastique PLA. Le plastique PE est fabriqué avec du naphta, qui est un dérivé du pétrole, par opposition au plastique PLA qui est fabriqué à base de plante, principalement la betterave sucrière. Cependant, ceci ne veut pas dire que vous pouvez tout simplement jeter le gobelet en carton bio dans la nature. Le gobelet est dégradable uniquement dans des usines spécialisées dans le compostage. L’avantage de ces gobelets en carton biodégradables est qu’ils émettent peu de CO2 lors de la production, comparé à la production de gobelets en carton ordinaires. De plus, aucun pétrole n’est utilisé pour la fabrication des gobelets. Tous les gobelets en carton bio sont certifiés FSC. Ceci signifie que les arbres coupés pour la production du carton sont replantés, et repoussent au rythme auquel ils sont coupés. Des gobelets en carton simple paroi personnalisables. Lors de la production des gobelets en carton simple paroi, nous utilisons la méthode d’impression offset, qui permet d’offrir la plus haute qualité d’impression possible, que ce soit pour de petites ou grandes quantités. La bonne nouvelle est qu’avec l’impression couleur, vous n’avez pas à compter le nombre de couleurs pour votre design – vous pouvez utiliser autant de couleurs que vous désirez, et ceci gratuitement ! Profitez de cette liberté illimitée pour votre créativité et promouvez votre marque comme vous le souhaitez. Vous pouvez choisir un design élégant et simpliste, ou coloré et accrocheur. Quel que soit vos idées pour votre design, le gobelet en carton simple paroi répondra à vos attentes – et ceci sans coût supplémentaire. Des gobelets en carton simple paroi biodégradables en 5 tailles différentes.. Nous fabriquons nos gobelets en carton simple paroi bio en 5 tailles différentes, vous offrant une large sélection de gobelets en carton pour toutes les occasions. Les gobelets ont tous la même épaisseur de carton, mais si vous désirez des gobelets en carton simple paroi plus épais, nous serions ravis de vous aider. Gobelets en carton bio fabriqués facilement.. Fabriquer des gobelets en carton biodégradables ne devraient pas être quelque chose de compliqué. Chez LimePack, nous ne pensons pas seulement que nos produits doivent être sans défaut, mais aussi que la commande et le design doivent être simples et accessibles ! Pour cela, des modèles de design sont à votre disposition et téléchargeables sur notre site internet. Télécharger tout simplement le modèle que vous souhaitez, correspondant au type d’imprimé que vous aimez, et joignez le design à votre commande. Nous sommes aussi disponibles et ravis de vous aider à créer votre propre design. Dans ce cas, joignez à votre commande les fichiers correspondants à votre design et nous vous enverrons un aperçu 3D du gobelet personnalisé. La production des gobelets ne commencera seulement qu’après avoir reçu votre approbation. Produits alternatifs.",
+    "price": 697,
+    "photo": "https://www.limepack.fr/3325-large_default/gobelet-en-carton-simple-paroi-personnalise-et-biodegradable.jpg",
+    "labels": "['forest_stewardship_council', 'biodegradable']",
+    "url": "https://www.limepack.fr/gobelet-en-carton/68-gobelet-en-carton-simple-paroi-personnalise-et-biodegradable.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA8fxciGje_p77yhfafe8TbFG1aX_EWel6WFQVZbfSrl7KyYW9yDcoxoCEEoQAvD_BwE#/62-quantity-4000/169-papcupsize-240_ml"
+  },
+  {
+    "FIELD1": 31,
+    "titre": "2000 sacs bioplast - Flo",
+    "desc": "Découvrez le sac en plastique biodégradable ivoire et vert. Ces sacs sont composés d'au moins 40% de plastique bio-sourcé et de copolyester. Vous pourrez donc les recycler directement chez vous : vous faites un petit geste pour la nature. 26 cm de largeur pour 45 cm de hauteur (soufflet 60 et 13 microns d'épaisseur) ou 30 cm de largeur pour 54 cm de hauteur (soufflet 70 et 16 microns d'épaisseur). Ils sont livrés par 10 paquets de 100, soit 1000 sacs. Caractéristiques.",
+    "price": 122.52,
+    "photo": "https://www.laboutiquedeschefs.com/media/images/products/w-1200-h-630-zc-2-sacs-bioplast-compostables-59afcbb25573d.jpg",
+    "labels": "['made_in_france', 'ok_compost', 'ok_home_compost', 'biodegradable']",
+    "url": "https://www.laboutiquedeschefs.com/patisserie-boulangerie/boites-et-emballages/sacs-kraft-et-plastique/2000-sacs-bioplast?ref=718606&gclid=CjwKCAiA1L_xBRA2EiwAgcLKAyh80CkeQ6SUMCmdrhgvCXGXWn2iwi47FG6svr-usY6uPCNI2BUmiRoCj0MQAvD_BwE"
+  },
+  {
+    "FIELD1": 32,
+    "titre": "Argile Blanche en Poudre Certifiée Cosmos Natural 90g - Najel",
+    "desc": "Extraite d'une carrière se trouvant en Auvergne à proximité du Puy-en-Velay, l'argile blanche certifiée Cosmos Natural Najel est 100% naturelle. Riche en sels minéraux (fer, magnésium, silice), l'argile blanche est reconnue pour ses propriétés nettoyantes, adoucissantes et purifiantes. L'argile blanche s'utilise en masque pour le visage et les cheveux ou comme cataplasme sur la peau pour ses vertus réparatrices, antiseptiques, cicatrisantes, et anti-inflammatoires. Elle convient particulièrement aux peaux délicates, sèches et sensibles et peut être utilisée comme soin anti-âge car elle ressert les pores. Ses vertus adoucissantes et revitalisantes lui permettent de prendre soin des cheveux secs.. L'argile s'utilise principalement mélangée à de l'eau (ou eau florale) pour confectionner des masques à appliquer sur la zone souhaitée.",
+    "price": 6.5,
+    "photo": "https://static.wixstatic.com/media/eab557_f84469c4118d4c1ea0b159f5fee3467c~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "labels": "['made_in_france', 'ecocert', 'cosmos_natural']",
+    "url": "https://www.boutique-essentielle.com/product-page/argile-blanche-en-poudre-certifi%C3%A9e-cosmos-natural-90g-najel"
+  },
+  {
+    "FIELD1": 33,
+    "titre": "Savon d’Alep liquide certifié Cosmos Natural \"Le Sultan d'Alep\" - PEAULETTE",
+    "desc": "C’est un savon qui mousse moyennement, mais idéal pour conserver une peau saine. Né dans la cité d’Alep en Syrie, son mode de fabrication n’a guère évolué depuis lors. C’est sous les voûtes de pierres des anciens Khan ou Caravansérails que se transmettent de génération en génération les secrets des maîtres savonniers alchimistes. Puisant ses qualités dans la richesse de ses huiles, notre savon liquide naturellement glycériné respectera les peaux sensibles, à tendance sèche et atopique. France / Testé sous contrôle dermatologique Certifié Cosmos Natural par Ecocert Greenlife, 99,6% du total est d’origine naturelle. Quelques mots sur le Sultan d'Alep Le Sultan d’Alep propose des produits artisanaux et naturels, testés sous contrôles dermatologiques. Depuis près de trente ans, leur famille est spécialisée dans la technologie pharmaceutique. En 2001, alors qu’ils commencent à importer le savon d’Alep en France, ils décident de fonder Le Sultan d’Alep afin de faire connaître les vertus uniques de ce produit traditionnel et de valoriser un travail artisanal dans le monde de la beauté. Intransigeants sur la qualité de l’approvisionnement, depuis la création du Sultan d’Alep, la marque travaille en collaboration avec un maître savonnier Aleppin, héritier de 400 ans de savoir-faire familial. Usage externe. Ne pas avaler et conserver à température ambiante.",
+    "price": 3.4,
+    "photo": "http://cdn.shopify.com/s/files/1/0250/4110/9073/products/Savon_d_Alep_liquide_certifie_Cosmos_Natural_sultan_alep_grande.jpg?v=1578161800",
+    "labels": "['ecocert', 'cosmos_natural']",
+    "url": "https://www.peaulette.fr/products/savon-d-alep-liquide-certifie-cosmos-natural?variant=31364696834129"
+  },
+  {
+    "FIELD1": 34,
+    "titre": "Kit Zéro Déchets - Ola Bamboo - Zéro Déchet – Vegan Select Store à Bayonne - La Licorne de Victorine",
+    "desc": "Parfait pour tous vos repas en mode zéro déchet ! Chaque assortiment contient : 1 paille, 1 brosse nettoyante, 1 fourchette, 1 couteau, 1 cuillère à thé et une pochette de voyage. Idéal pour vos repas pris au travail et pour tous vos pique-niques ! Tous les items à l’intérieur sont réutilisables. Idéal pour les boites à lunch, le bureau, les voyages, à la maison ou même au restaurant. Longue durée de vie. Très légers et ultra tendances. Les forêts de bambous absorbent 35% plus de CO2 qu’une forêt mixte régulière. Ola Bamboo est une marque d'origine québécoise, née de l'amour de la planète de ses co-fondateurs. Engagée socialement, cette entreprise donne l'opportunité, aux personnes ayant un handicap, de travailler. Le plastique fait des ravages à notre belle planète, il est indispensable d'en limiter sa consommation afin de réduire notre empreinte carbone ! Vive le zéro déchet !",
+    "price": 12,
+    "photo": "http://cdn.shopify.com/s/files/1/2259/8205/products/A1_2-removebg-preview_1200x1200.png?v=1581497119",
+    "labels": "['zero_waste', 'vegan']",
+    "url": "https://www.lalicornedevictorine.com/products/kit-zero-dechets-ola-bamboo-zero-dechet?variant=31070343889032&currency=EUR&gclid=CjwKCAiA1L_xBRA2EiwAgcLKA17oRLQS8MU1tzo7TccogCHRaSUjouspPsWY8BP3xJn3xyJ96a0VxBoCuUYQAvD_BwE"
+  },
+  {
+    "FIELD1": 35,
+    "titre": "Hamac Chaise Rope Black - Tropilex",
+    "desc": "Premium Tropilex Hamac Chaise. Noir. Hamac Chaise 'Rope' Black. Relax with a good feeling!",
+    "price": 89,
+    "photo": "https://www.tropilex.com/fr/media/catalog/product/cache/1ad3cfdf7f7b453713c3fc4e3747f4ea/h/a/hanging-chair-rope-black-1.jpg",
+    "labels": "['1_for_the_planet']",
+    "url": "https://www.tropilex.com/fr/hamac-chaise-rope-black"
+  },
+  {
+    "FIELD1": 36,
+    "titre": "Baume dÉodorant - neutre - sans bicarbonate",
+    "desc": "Gaiia A propos Notre histoire Bienvenue sur la boutique Slow de Gaiia! Découvrez nos véritables savons à froid surgras, savons au Rassoul, savons d'Alep et bien d'autres fabriqués artisanalement en France près de Valence par des savonniers passionnés ! Gaiia c'est avant tout une histoire d'amitié, une histoire d'hommes, l'histoire de deux amis de 30 ans dont le rêve était de devenir un jour savonnier à froid : Franck et Philippe. Franck vit à Chabeuil dans la Drôme tandis que Philippe lui, s'est installé à Goa en Inde il y à déjà 20 ans. Gaiia fabrique de véritables savons à froid depuis 2009. Ils sont saponifiés à froid et coupés à la main. Philippe nous prépare depuis Goa des savons Ayurvédique qui seront fabriqués à Goa et dispo au cours du printemps 2015. Nos savons ne contiennent pas de vilaines substances pétrochimique ou de synthése. Ils sont 100% naturels et 100% biodégradables. Des savons surgras, hydratants et émolients, de véritables soins lavant !",
+    "price": 12,
+    "photo": "https://www.slow-cosmetique.com/images/200x291/s/deo-douceur-gaiia.jpg",
+    "labels": "['saponification_a_froid', 'agriculture_biologique', 'made_in_france', 'no_animal_test', 'vegan', 'slow_cosmetique']",
+    "url": "https://www.slow-cosmetique.com/corps/deodorants/baume-deodorant-bio-neutre-sans-bicarbonate.html"
+  },
+  {
+    "FIELD1": 37,
+    "titre": "Bobine devidage central Ecolabel 450 blanche 10",
+    "desc": "Cette bobine dévidage central est en ouate recyclé et dispose donc de l'Ecolabel Européen. Cette bobine vous garantira un essuyage efficace grâce à ses deux épaisseurs et son gaufrage micro très absorbant. Produit disposant du label Ecolabel Européen certifiant les produits écologique. Produit contact alimentaire vous permettant un usage en cuisine et industrie agro alimentaire. Produit conforme PEFC Produit ISO 9001 TÜV NORD Italia SPRL Bobine de 450 formats 190 x 210 mm avec prédécoupe. Utilisable en industrie agro-alimentaire et aussi en industrie. Dévidage centrale ou externe. Distributeur associé référence 899605. Produit fabriqué en France. Afin d'utiliser cette bobine en dévidage de l'intérieur il vous suffit de retirer la spirale en carton. Le papier se dévidera ensuite naturellement de l'intérieur. Si vous éprouvez une difficulté pour enlever le carton en spirale, une clef ou un petit tourne vis plat pourrons vous aider.",
+    "price": 10.49,
+    "photo": "https://www.voussert.fr/Asset/PHOTOS/321450.jpg",
+    "labels": "['made_in_france', 'ecoeuropeen', 'programme_for_the_endorsement_of_forest_certification']",
+    "url": "https://www.voussert.fr/bobine-devidage-central-ecolabel-450-fts-blanche-les-6-fp-14122.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA9BwE2g_hGhOMbPXm9dMtY0uQM3ptai4GfIScq8lEBsalcDvbNpW-xoCdqoQAvD_BwE"
+  },
+  {
+    "FIELD1": 38,
+    "titre": "Maestria OLEOMAT Peinture Blanc 15L",
+    "desc": "Les points positifs du produit : Sans tension, évite cloquages et écaillages. Facilité d'application. Réintégration immédiate des locaux. Excellente opacité en 1 couche. Masque et isole en 2 couches les taches de nicotine. Sans solvant, faible teneur en COV. Résistance à l'abrasion humide classe 2 selon norme NF EN 13300 de février 2002. Bénéficie de l'ECOLABEL EUROPEEN. Adhérence du papier peint après 24 h de séchage. Blanc Conditionnement : 15L Brillant spéculaire à 85° : inférieur à 1.",
+    "price": 144,
+    "photo": "https://boutique-parquet.com/pub/static/version1585569718/frontend/bs_drexel/bs_drexel3/fr_FR/Magento_Catalog/images/product/placeholder/image.jpg",
+    "labels": "['made_in_france', 'ecoeuropeen']",
+    "url": "https://www.boutique-parquet.com/maestria-oleomat-peinture-blanc-15l.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKAzJPko9VhRkPvIf0ppSbX7eS2MsHlIFSLcahAC3cgnbbM4wvL2jObhoCGK0QAvD_BwE"
+  },
+  {
+    "FIELD1": 39,
+    "titre": "Frosch - des produits ménagers respectueux de l’environnement",
+    "desc": "Frosch, c’est une gamme de produits alternatifs pour le ménage, éco-labellisés, respectueux de l’environnement et biodégradables. Notre vision ? Une approche écologique à 360°, dans tout ce que nous faisons.",
+    "price": 0,
+    "photo": "",
+    "labels": "['ecoeuropeen', 'sustainable_cleaning', 'cradle_to_cradle']",
+    "url": "https://www.frosch.be/fr/"
+  },
+  {
+    "FIELD1": 40,
+    "titre": "Bureau d'angle réversible contemporain noir Phénicia - Matelpro",
+    "desc": "Le bureau d'angle contemporain Phénicia vous offrira un bel espace de travail tout en apportant une touche moderne et raffinée dans votre pièce. Fabriqué en panneaux de particules mélaminés de haute qualité, il garantira une parfaite stabilité. Pratique, vous pourrez choisir l'agencement lors du montage : perpendiculairement avec angle à gauche ou angle à droite ou tout simplement horizontalement. Il se compose d'un large plan de travail et d'un meuble composé de 4 niches ouvertes, d'une porte et d'un tiroir.",
+    "price": 239.99,
+    "photo": "https://www.matelpro.com/27085-large_default/bureau-d-angle-reversible-contemporain-noir-phenicia.jpg",
+    "labels": "['programme_for_the_endorsement_of_forest_certification']",
+    "url": "https://www.matelpro.com/bureau-d-angle-reversible-contemporain-noir-phenicia.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA1gtDgGI6pQl_XLBW_jAu36c0lUfNpny7EQSJmQO7E3Q81eg9jeF7RoCu6MQAvD_BwE"
+  },
+  {
+    "FIELD1": 41,
+    "titre": "Sachet kraft PEFC à ouverture déchirable avec fenêtre en PLA - Bio Futura - Packaging durable & Jetables",
+    "desc": "Ces sachets en papier déchirables sont appelés Ritzbag. Ces sachets sont déchirables et sont pratiques au moment de terminer un sandwich, par exemple. En raison de la présence de la fenêtre en bioplastique, ils ne sont en revanche pas recommandés pour des recettes chaudes. Vous pouvez utiliser ces sachets lors d'événements, pour des festivals ou sur la route.",
+    "price": 39.67,
+    "photo": "https://www.biofutura.com/media/catalog/product/cache/1e6538eb8b970587f1bf8b6ab2eb0204/p/r/prrz3411-pefc-paper-ritzbag-with-pla-window.jpg",
+    "labels": "['programme_for_the_endorsement_of_forest_certification']",
+    "url": "https://www.biofutura.com/fr/sachet-kraft-pefc-a-ouverture-dechirable-avec-fenetre-en-pla"
+  },
+  {
+    "FIELD1": 42,
+    "titre": "Couches Écologiques Nature T0 - 1-3 kg - 24 couches -  BAMBO NATURE - Bébé au Naturel",
+    "desc": "Les Couches Jetables Écologiques Bambo Nature sont ultra minces et très absorbantes avec une couche supérieure qui attire l'humidité et laisse la peau délicate de bébé au sec même avec la répétition mouillage. Super doux - nouveau voile souple au dos avec une sensation textile. Coeur super absorbant avec une couche unique qui éloigne l'humidité de la peau de bébé, le laissant au sec même après plusieurs accidents. Doubles barrières anti-fuites avec élastique doux aidant bébé à rester au sec. Un maintien parfait - plus de confort et une plus grande facilité de mouvement sans fuites. Respirant - Le voile respirant permet à l'air de circuler sur la peau, réduisant le teneur en humidité et ainsi le risque d'irritation de la peau. Languette Velcros élastique et refermable pour un ajustement parfait. Nouvelles bandes latérales flexibles élastiques pour plus d'aisance, de confort et de liberté de mouvement.",
+    "price": 5.69,
+    "photo": "images/rep_articles/grandes/15048-36741.jpg",
+    "labels": "['forest_stewardship_council', 'recyclable']",
+    "url": "https://www.bebe-au-naturel.com/bambo-nature-couches-ecologiques-nature-t0-1-3-kg-24-couches,bebe,produit,0-15048-36741,3.couche-lavable.html"
+  },
+  {
+    "FIELD1": 43,
+    "titre": "Jacquard jersey Bio GOTS Check Point Herringbone – vert - gris clair - Hamburger Liebe - Albstoffe- tissus.net",
+    "desc": "Ce panel de tissu super cool a été fabriqué en Allemagne et séduit par son joli design enjoué, conçu par la blogueuse Hamburger Liebe. Ce superbe tissu jacquard Albstoff a été fabriqué en Allemagne et séduit par son design décontracté, conçu par la blogueuse Hamburger Liebe.Il séduit par sa qualité exceptionnelle étant composé de 100% de coton bio provenant de plantations biologiques contrôlées. Cela le rend agréablement doux et souple avec une grande tolérance cutanée. Il convient parfaitement pour les projets de couture suivants : leggings, petites robes pour enfants ou cardigans confortables, tout est possible!Pour coudre ce tissu, utilisez de préférence des aiguilles jersey et un point élastique. Ensemble avec votre créativité, la réalisation d’une It-pièce sur mesure ne connaitra pas d’obstacle. Trouvez des assortis, également dans notre boutique, qui viennent parfaire la gamme de Hamburger Liebe. Trouvez des assortis, également dans notre boutique, qui viennent parfaire la gamme de Hamburger Liebe. Ce superbe tissu jacquard Albstoff a été fabriqué en Allemagne et séduit par son design décontracté, conçu par la blogueuse Hamburger Liebe.Il séduit par sa qualité exceptionnelle étant composé de 100% de coton bio provenant de plantations biologiques contrôlées. Cela le rend agréablement doux et souple avec une grande tolérance cutanée. Il convient parfaitement pour les projets de couture suivants : leggings, petites robes pour enfants ou cardigans confortables, tout est possible!Pour coudre ce tissu, utilisez de préférence des aiguilles jersey et un point élastique. Ensemble avec votre créativité, la réalisation d’une It-pièce sur mesure ne connaitra pas d’obstacle. Trouvez des assortis, également dans notre boutique, qui viennent parfaire la gamme de Hamburger Liebe.^",
+    "price": 26.95,
+    "photo": "https://media.fabfab.net/images/products/popup/jacquard-jersey-bio-gots-check-point-herringbone-vert-gris-clair-hamburger-liebe--173_283H847_02.jpg",
+    "labels": "['global_organic_textile_standard_gots']",
+    "url": "https://www.tissus.net/173-283h847-02_jacquard-jersey-bio-gots-check-point-herringbone-vert-gris-clair-hamburger-liebe.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKAyrCYa6KbGAnRq3ZvoXbPcobZtOBvYQx4GjVZGXMANnZMh7W1ODctRoCgnUQAvD_BwE"
+  },
+  {
+    "FIELD1": 44,
+    "titre": "Olly lingerie - Shorty brésilien Dawa noir en dentelle recyclée",
+    "desc": "Le shorty Dawa sublime nos fesses tout en délicatesse ! Côté coupe, il est légèrement échancré sur les fesses et très confortable. Et bien sûr, le fond de culotte est doublé en coton bio. Fond de culotte doublé en coton biologique certifié.",
+    "price": 35,
+    "photo": "http://cdn.shopify.com/s/files/1/2536/7862/products/Olly-lingerie_shorty-dawa-noir-dentelle-recyclee-_MaevaDelacroix_1_grande.jpg?v=1585126774",
+    "labels": "['global_organic_textile_standard_gots', 'oeko_tex']",
+    "url": "https://olly-lingerie.com/collections/frontpage/products/shorty-dawa-noir"
+  },
+  {
+    "FIELD1": 45,
+    "titre": "PEINTURES DE PARIS",
+    "desc": "Peintures de Paris est le 1er réseau de distribution de peintures en Ile-de-France.",
+    "price": 0,
+    "photo": "http://www.guittet.com/getmedia/dba576be-2fcf-44ed-b3fe-78cf4459ba77/Facadex-15L_2014_CLP.png.aspx?width=175&height=190&ext=.png",
+    "labels": "['nf_environnement']",
+    "url": "https://www.peinturesdeparis.com/produits-fiche?id_p=87"
+  },
+  {
+    "FIELD1": 46,
+    "titre": "Meuble bas NF Environnement sans portes - H.72 x L. 80 x P. 48 cm - Chêne - Bernard.fr",
+    "desc": "Décors compatibles avec les gammes Biospace, Imédia, Variation, Expression, Evolution. L'assurance de rangements résistants et respectueux de l'environnement ! Très robuste et résistant aux rayures, structure en panneaux de particules en mélaminé labellisés PEFC traités anti-reflet et conformes aux normes du FCBA, épaisseur de 16 et 25 mm. Equipé d'une tablette intérieure réglable à la hauteur souhaitée. Rails pour dossiers suspendus vendus option. Possibilité de régler les 4 patins depuis l'intérieur du meuble pour la mise à niveau en fonction des imperfections du sol. Le meuble peut s'utiliser dans le prolongement du bureau profondeur 80 cm comme rangement de proximité à hauteur du bureau. L. 80 x H. 72 x P. 48 cm. Chêne Fabrication française. Norme NF Environnement. Certificat PEFC. Norme Office excellence certifié. Norme GS. Norme ISO 9001 et ISO 14001. Garantie 7 ans. Rails pour dossiers suspendus. Meuble livré prêt à monter. Photo non contractuelle.",
+    "price": 199,
+    "photo": "/Images/shared/stardust.gif?v=HjLjbg7dJZzzYnHzgpIAAw",
+    "labels": "['made_in_france', 'programme_for_the_endorsement_of_forest_certification', 'nf_environnement']",
+    "url": "https://www.bernard.fr/meuble-bas-nf-environnement-sans-portes-h72-x-l-80-x-p-48-cm-chene/cbs/79122c1.html"
+  },
+  {
+    "FIELD1": 47,
+    "titre": "10 chemises recyclées Assortiment 10 couleurs pastels 32x24cm pour A4 - 170g écologique",
+    "desc": "10 chemises papier 100% recyclé aux couleurs pastel. Idéal pour un classement ordonné et pour retrouver vite ses documents ! 24X32cm. labelisées Ange-Bleu. Exacompta. Fabriqué en France.",
+    "price": 2.15,
+    "photo": "https://www.toutallantvert.com/pt/7191_sous-chemises-pastel-exacompta2.jpg.thumb_250x250_8c2e8cb66167ad929ac0f9b8e52d804e.jpg",
+    "labels": "['made_in_france', 'ange_bleu']",
+    "url": "https://www.toutallantvert.com/10-chemises-recyclees-assortiment-10-couleurs-pastels-32x24cm-pour-a4-170g-p-7191.html"
+  },
+  {
+    "FIELD1": 48,
+    "titre": "LG 50LN5400 - Classe 50\" (49.5\" visualisable) TV LED - 1080p (Full HD) 1920 x 1080 - LED à éclairage direct - Téléviseurs LCD 32\" à 43\" fnac",
+    "desc": "LG 50LN5400 - Classe 50 (49.5 visualisable) TV LED - 1080p (Full HD) 1920 x 1080 - LED à éclairage direct. Téléviseurs LCD 32 à 43. A+. Remise de 5% pour les adhérents et retrouvez nos caractéristiques détaillées pour faire le bon choix.",
+    "price": 0,
+    "photo": "https://static.fnac-static.com/multimedia/Images/FR/MC/2d/44/38/20464685/1540-1/tsp20170214160148/LG-50LN5400-Clae-50-49-5-visualisable-TV-LED-1080p-Full-HD-1920-x-1080-LED-a-eclairage-direct.jpg#07fbb841-7273-445d-874b-673ad0d07e3e",
+    "labels": "['epeat', 'etiquette_energie_des_appareils_electromenagers', 'energy_star']",
+    "url": "https://www.fnac.com/mp20464685/LG-50LN5400-Classe-50-49-5-visualisable-TV-LED-1080p-Full-HD-1920-x-1080-LED-a-eclairage-direct/w-4"
+  },
+  {
+    "FIELD1": 49,
+    "titre": "HP EliteDisplay E272q - Écran LED - 27\" (27\" visualisable) - 2560 x 1440 QHD - IPS - 350 cd - m² - 1000 - 1 - 7 ms - HDMI - VGA - DisplayPort - noir - argent - pour RP9 G1 Retail System 9118 - Ecran PC fnac",
+    "desc": "Exécutez plusieurs tâches à votre guise en qualité Quad HD avec le moniteur QHD HP E272q de 68,6 cm (27 pouces) qui offre également des fonctions TCO Certified Edge pour travailler confortablement toute la journée.",
+    "price": 0,
+    "photo": "https://static.fnac-static.com/multimedia/Images/FR/MC/de/11/a6/27660766/1540-1/tsp20170214185049/HP-EliteDisplay-E272q-Ecran-LED-27-27-visualisable-2560-x-1440-QHD-IPS-350-cd-m2-1000-1-7-ms-HDMI-VGA-DisplayPort-noir-argent-pour-RP9-G1-Retail-System-9118.jpg#f1f160e1-3c96-4c6f-8a10-28e88510f166",
+    "labels": "['tco_certified', 'energy_star']",
+    "url": "https://www.fnac.com/mp27660766/HP-EliteDisplay-E272q-Ecran-LED-27-27-visualisable-2560-x-1440-QHD-IPS-350-cd-m-1000-1-7-ms-HDMI-VGA-DisplayPort-noir-argent-pour-RP9-G1-Retail-System-9118/w-4"
+  },
+  {
+    "FIELD1": 50,
+    "titre": "Huile vierge d'Avocat Bio Equitable",
+    "desc": "Emma Noël est depuis 2004 une marque de cosmétique bio dédiée aux bienfaits des huiles végétales vierges. Forte d'une huilerie et d'un laboratoire spécialisé, nous révélons dans chaque huile la source d'un soin bio de qualité. Nous disposons d'une expertise physico-chimique et de matériels ultraperformants pour identifier dans chaque huile biologique la source d'un soin hydratant, émollient, restructurant, régénérant, anti-âge...mis au cœur de la création de nos produits.",
+    "price": 0,
+    "photo": "/uploads/assets/14055893555762jpg.jpg",
+    "labels": "['agriculture_biologique', 'no_animal_test', 'cosmebio', 'ecocert', 'bio_equitable']",
+    "url": "http://www.emmanoel.fr/cosmetique-beaute-soin-bio/fr/product-detail/cat/huiles-de-soins-et-de-beaute/huile-vierge-d-avocat-bio-equitable"
+  },
+  {
+    "FIELD1": 51,
+    "titre": "Lave vaisselle Indesit TDFP57BP96EU - Darty",
+    "desc": "Le lave-vaisselle Indesit TDFP57BP96EU blanc, bénéficie d'une capacité de 14 couverts, 7 programmes dont un programme Rapide 30', d'un moteur à induction et d'une cuve 100% inox. De classe énergétique A++ il permet une économie de 20% par rapport à un modèle de classe A. Moteur à induction Permet de fonctionner en silence et d'améliorer sa durée de vie. Programme Rapide Permet de laver votre vaisselle en 30 minutes seulement ! Programme Intensif Cycle de nettoyage à haute température, pour une vaisselle très sale. Option Demi-charge Idéal pour une petite quantité de vaisselle peu sale à laver. Panier supérieur réglable en hauteur Support repliables pour caler facilement tasses et verres à pied. Ajustable en hauteur, même chargé, il peut accueillir des assiettes et être totalement sorti de la cavité afin de libérer encore plus d'espace. Départ différé Grâce à la fonction départ différé, vous pouvez programmer votre cycle de lavage de 1 h jusqu'à 12 h à l'avance afin de l'adapter au mieux à votre emploi du temps ou de profiter des tarifs heures creuses (selon abonnement). Affichage du temps restant Ce lave-vaisselle dispose du temps restant afin de gérer au mieux votre temps. Il est doté de la sécurité arrivée d'eau Overflow. Raccordement eau chaude jusqu'à 60°C Ce lave-vaisselle peut-être raccordé à une arrivée d'eau chaude ou à une source chaude type panneaux solaire. L'eau n'a plus besoin d'être chauffée et vous pouvez économiser jusqu'à 70 % d'électricité par rapport à un lave-vaisselle sans raccordement eau chaude, à pleine charge et sur la base du programme normatif Eco 50°C.",
+    "price": 399,
+    "photo": "https://image.darty.com/gros_electromenager/lave-vaisselle/lave-vaisselle/indesit_tdfp57bp96eu_f1711284381424A_103450457.jpg",
+    "labels": "['etiquette_energie_des_appareils_electromenagers']",
+    "url": "https://www.darty.com/nav/achat/gros_electromenager/lave-vaisselle/lave-vaisselle/indesit_tdfp57bp96eu.html"
+  },
+  {
+    "FIELD1": 52,
+    "titre": "Lave-vaisselle Siemens Sn236i04ne 44db - A++ - 14 Couverts - Lave-vaisselle fnac",
+    "desc": "Lave-vaisselle - 6 programmes dont Auto 45-65°C, 1 heure 65°C et Verre 40°C : il lave tout d'abord les verres en douceur et parfaitement à basse température. Suit ensuite une phase de séchage spécialement prolongée pour garantir un séchage très délicat. vos verres sont impeccables et d'une brillance exceptionnelle, pour longtemps - Programme Entretien de la machine - Options VarioSpeed Plus (3 fois plus rapide), Séchage Extra (idéal pour les matières plastiques) et Zone intensive : la pression de l?eau est augmentée de 20% dans le panier inférieur. Vos casseroles et faitouts très sales sont parfaitement nettoyés, tandis que la vaisselle plus délicate, placée dans le panier supérieur, est lavée en douceur - Système Auto 3in1 : détection lessivielle automatique - Boîte à produit MaxiPerformance - Système ProtectVerre : il lutte contre l?acidité de l?eau qui rend les verres opaques et préserve la brillance et la transparence des verres - AquaSensor : ce système régule la consommation d'eau selon le type et le degré de salissure, en utilisant une cellule infrarouge pour optimiser le rinçage. Selon les particules de nourriture, de graisse ou de détergent restantes dans l'eau, le système détermine si le processus doit être poursuivi - Tiroir à couverts VarioFlex : il offre un espace de rangement supplémentaire. Grâce à son design spécial, il accueille non seulement les couverts, mais aussi les louches, les couverts à salade ou les petites tasses à café - Panier supérieur réglable même chargé Rackmatic 3 niveaux - Paniers modulables VarioFlex : rangement facile de la vaisselle - Moteur iQdrive : son aimant permanent supprime tout frottement, garantissant ainsi moins d?usure, moins de bruit et moins de déperdition d?énergie - Départ différé jusqu'à 24 heures - Affichage du temps restant - Sécurités enfants et anti-débordement AquaStop - Finition inox anti-trace.",
+    "price": 568.5,
+    "photo": "https://static.fnac-static.com/multimedia/Images/7E/7E/98/B4/11835518-1505-1540-1/tsp20190529003805/Lave-vaielle-Siemens-Sn236i04ne-44db-A-14-Couverts.jpg#c335d807-32a8-48d1-b96c-aa5b15c96676",
+    "labels": "['etiquette_energie_des_appareils_electromenagers']",
+    "url": "https://www.fnac.com/mp39851842/Lave-vaisselle-Siemens-Sn236i04ne-44db-A-14-Couverts/w-4#int=S:Suggestion||NonApplicable|39851842|BL3|L1"
+  },
+  {
+    "FIELD1": 53,
+    "titre": "Après-shampooing régénérant à l'Avoine. Nourrit et protège les chev...",
+    "desc": "Nettoie en douceur, lisse, nourrit et protège les cheveux cassants ou abîmés. Contient de l'huile de jojoba bio et des extraits de racine de guimauve bio.",
+    "price": 10.5,
+    "photo": "//weledaint-prod.global.ssl.fastly.net/binaries/content/gallery/global/packshots/french/hair/apres_shampooing_avoine.jpg",
+    "labels": "['vegan', 'natrue']",
+    "url": "https://www.weleda.fr/product/a/apres-shampooing-regenerant-avoine#showSlider"
+  },
+  {
+    "FIELD1": 54,
+    "titre": "Dr. Scheller Fluide Hydratant Protecteur 24H - 50 ml",
+    "desc": "Ce fluide pour le visage rééquilibre efficacement la peau à tendance grasse. Il atténue la brillance de la zone T en absorbant l'excès de sébum, tout en hydratant la peau. L'extrait de gingembre blanc protège en outre la peau de la lumière bleue, des rayons UVA et des infrarouges. Pour une peau éclatante de beauté. appliquer matin et soir sur une peau propre, et masser doucement. Aqua (Water) Citrus Aurantium Dulcis (Orange) Fruit Extrakt Dicaprylyl Ether amylopectin Butylene Glycol Citrullus Lanatus (Kalahari Melon) Seed Oil Moringa Oleifera Seed Oil Cucumis Melo (Melon) Fruit Extract hedychium coronarium root extract Enantia Chlorantha Bark Extract Parfum (Fragrance) Limonene Citral Sodium Levulinate Sodium Anisate Gellan Gum Citric Acid Stearyl Alcohol Oleanolic Acid provenant de l'agriculture biologique contrôlée provenant d'huiles essentielles naturelles.",
+    "price": 7.99,
+    "photo": "https://cdn-ec.niceshops.com/upload/image/product/facebook/default/dr-scheller-fluide-hydratant-protecteur-24h-30-ml-1233238-fr.jpg",
+    "labels": "['agriculture_biologique', 'co2_neutral', 'vegan', 'natrue']",
+    "url": "https://www.ecco-verde.fr/dr-scheller/fluide-hydratant-protecteur-24h"
+  },
+  {
+    "FIELD1": 55,
+    "titre": "LOGONA Hydrocrème Lissante Q10 \"Mann\" - 50 ml",
+    "desc": "Ce fluide hydrate intensément votre peau en atténuant ridules et fines lignes, sans laisser de film gras. Parfait également pour le contour des yeux et les soins de la barbe de 3 jours. Après le nettoyage de la peau, déposer une quantité suffisante de crème dans les paumes de main, frottez celles-ci l'une contre l'autre et répartir ensuite la crème sur le visage et le cou. Aqua (Water) Distarch Phosphate Isoamyl Laurate Cyperus Esculentus Root Oil Tocopheryl Acetate Dipotassium Glycyrrhizate Ginkgo Biloba Leaf Extract Alaria Esculenta Extract Caffeine Ubiquinone Citric Acid PCA Ethyl Cocoyl Arginate Parfum (Fragrance) Limonene Citral Cinnamal Eugenol provenant de l'agriculture biologique contrôlée provenant d'huiles essentielles naturelles.",
+    "price": 16.08,
+    "photo": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+    "labels": "['agriculture_biologique', 'co2_neutral', 'vegan', 'natrue', 'bdih']",
+    "url": "https://www.ecco-verde.fr/logona/mann-fluide-anti-rides"
+  },
+  {
+    "FIELD1": 56,
+    "titre": "Parisot Maths Pont de Lit en Bois - 123.5cm x 93cm - Cuisine & Maison",
+    "desc": "Habille le lit tout en offrant de précieux espaces de rangement. construction respectueuse des normes environnementales. Fabrication française. panneaux de particules. papier décor Acacia Clair papier décor blanc. Idéal pour un lit en 90x190 ou 90x200 cm. A monter soi-même. Avec la notice 2 ans.",
+    "price": 0,
+    "photo": "https://images-na.ssl-images-amazon.com/images/I/41LB4loDPvL._AC_.jpg",
+    "labels": "['made_in_france', 'green_way']",
+    "url": "https://www.amazon.fr/Parisot-Maths-Pont-Bois-123-5cm/dp/B07RH6MR4Z"
+  },
+  {
+    "FIELD1": 57,
+    "titre": "Cahier recyclé Spirale A4 ligné 70g Forever écologique",
+    "desc": "Cahier à spirale recyclé ligné Forever. Dotée d'une jolie couverture colorée aux motifs nature, cette gamme de cahiers 100% recyclé saura convenir à tous les besoins que ce soit au bureau, à l'école ou à la maison...",
+    "price": 3.7,
+    "photo": "https://www.toutallantvert.com/pt/1116_17418_cahier_recycle_mauve.jpg.thumb_250x250_8c2e8cb66167ad929ac0f9b8e52d804e.jpg",
+    "labels": "['made_in_france', 'ange_bleu', 'apur', 'recyclable']",
+    "url": "https://www.toutallantvert.com/cahier-recycle-spirale-a4-ligne-70g-forever-p-1116.html"
+  },
+  {
+    "FIELD1": 58,
+    "titre": "HuntKey 90W Energy Star - adaptateur secteur - 90 Watt - Chargeur ordinateur portable fnac",
+    "desc": "L'90W Energy Star de Huntkey est un adaptateur pour ordinateur portable de haute efficacité. Il comprend 10 embouts différents de portable pour une compatibilité avec une grande variété de marques de portables les plus importantes.",
+    "price": 0,
+    "photo": "https://static.fnac-static.com/multimedia/Images/FR/MC/94/c2/1f/18858644/1540-1/tsp20130620111008/HuntKey-90W-Energy-Star-adaptateur-secteur-90-Watt.jpg#d1b5d6d8-847f-4d4f-aaf0-3056d3f4ea32",
+    "labels": "['energy_star']",
+    "url": "https://www.fnac.com/mp18858644/HuntKey-90W-Energy-Star-adaptateur-secteur-90-Watt/w-4"
+  },
+  {
+    "FIELD1": 59,
+    "titre": "Peinture d'Intérieur Mat Blanche 2.25 L -  TASSILI - Bébé au Naturel",
+    "desc": "Sur supports condensants ou humides en permanence. Ne pas appliquer en plein soleil ou sur un support surchauffé. Ne pas appliquer si la température est inférieure à 12°C. Mélanger le produit avec soin. Pensez à protéger ce qui ne doit pas être peint. Commencer par un angle supérieur au rouleau microfibre 6 à 10mm. Appliquer verticalement par bande de 50 à 60 cm sans croiser. Rachampir au pinceau au fur et à mesure du travail. Unir au rouleau rechampis et zones peintes en s'approchant au plus près des angles. Une fois en bas du mur, terminer en lissant de bas en haut, sans pression et d'un seul geste, sans recharger le rouleau. Les surfaces à peindre doivent être propres, saines et sèches. dépoussiérer à l'éponge humide, laisser sécher. élimination des particules non adhérentes, des moisissures ou du salpêtre, reprise des fissures et des trous à l'enduit de rebouchage. abreuver avec une couche de Peinture primaire Tassili diluée à 30% d'eau, puis après séchage, appliquer une couche pure. lessivage, rinçage, séchage, éventuellement ponçage léger de celles qui sont brillantes ou satinées.",
+    "price": 41.55,
+    "photo": "images/rep_articles/grandes/17719.jpg",
+    "labels": "['made_in_france', 'ecocert', 'pure']",
+    "url": "https://www.bebe-au-naturel.com/tassili-peinture-d-interieur-mat-blanche-2-25-l,bebe,produit,0-17719-39084,3.couche-lavable.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA1r6WKorVHJFElCcqLf850TK4xTWMVGFEG-sfhGxkKkorXPE39z1vBoCUlgQAvD_BwE"
+  },
+  {
+    "FIELD1": 60,
+    "titre": "Peinture naturelle mate - murs et plafonds intérieur Natura - 10L - 130m2",
+    "desc": "la peinture naturelle mat Natura s'applique au peinceau, rouleau ou pistolet. Peinture murs et plafonds naturelle à très faible odeur ayant une bonne résistance au nettoyage : peinture naturelle lavable. rebouchage des fissures, enduit de finition et 3 couches de peinture naturelle blanche mat car le plafond n'a pas reçu de sous couche. PREPARATION DU SUPPORT Le support doit être sec, résistant, absorbant, propre, sans fissure, sans efflorescences et moisissures. Utiliser la pour préparer votre support si besoin. Appliquez la peinture naturelle écologique natura au pinceau, rouleau ou pulvérisateur. Sec au toucher après 4h et en profondeur après 24 h. 2 couches Caractéristiques techniques Peinture naturelle à l'excellent rendement de 13m2 / L. (1) Substance naturelle :80% - (2) Substance d’origine naturelle transformée :7% - (3) Substance pétrochimique :1% - (4) Dioxyde de titane (minerai transformé chimiquement) : 12% Teintes: Peinture naturelle blanche mat. Peinture naturelle écologique à diluer avec 5% d'eau maximum et à remuer au mélangeur. Immédiatement après l'emploi, nettoyez les outils à l'eau tiède. A 23°C et 50% d'humidité relative de l'air, recouvrable au bout de 12 h. Peinture naturelle en pot de 10L. Conservez la peinture naturelle Natura au sec, à l'intérieur, fermés. Aucune teneur en substances dangereuses: Peinture naturelle ne contenant aucun métaux lourds Peinture naturelle ne contenant aucun composant dangereux pour l'environnement Peinture naturelle ne contient aucun formaldéhyde libre.",
+    "price": 76.9,
+    "photo": "https://www.maison-ecolo.com/media/catalog/product/cache/1/image/590x590/5e06319eda06f020e43594a9c230972d/p/e/peinture-naturelle-mate-10l-natura/la-maison-de-l-ecologie-Natura-peinture-renovation-peinture-a-l-eau-mur-plafond-Peinture-naturelle-mate,-murs-et-plafonds-intérieur-Natura,-10L_130m2-peint-mate-10L-natura-30.jpg",
+    "labels": "['ecocert', 'etiquette_energie_des_appareils_electromenagers', 'pure']",
+    "url": "https://www.maison-ecolo.com/peinture-naturelle-bio-mate-mur-plafond-interieur-natura.html?gclid=CjwKCAiA1L_xBRA2EiwAgcLKA4EfTKl-BIVj3vv5C6RX7qIvBcPTDTSTIA0D3Mlrbn3kwjkMv_aROxoCvtIQAvD_BwE"
+  },
+  {
+    "FIELD1": 61,
+    "titre": "Black Yak Gore-Tex C-Knit Jacket I - Veste imperméable Femme - Alpiniste.fr",
+    "desc": "La veste Women's Gore-Tex C-Knit Jacket I de la marque Black Yak gère la transpiration de manière efficace, elle offre une ventilation ciblée et une excellente protection contre le vent et l'humidité ! Cette veste hardshell féminine a une coupe légèrement cintrée. Grâce au matériau intérieur C-Knit, elle est agréable à porter. Le tissu Gore-Tex tricouche avec membrane rend la veste respirante. Ainsi, la transpiration est rapidement évacuée et le haut du corps reste agréablement chaud et sec ! Le tissu imperméable et coupe-vent protège efficacement contre les pluies abondantes, la neige et le vent. La capuche, les poignets et l'ourlet inférieur peuvent être ajustés avec précision. De cette façon, les zones sensibles sont à l'abri des éléments ! Les fermetures à glissière sous les bras apportent une ventilation rapide et ciblée lors des passages éprouvants. La veste Women's Gore-Tex C-Knit Jacket I convainc par son design soigné, son imperméabilité totale et ses poches judicieusement placées. Consultez nos experts Alpiniste Cora +49 7121/70 12 0 Lu - Ve 10h - 17h heures.",
+    "price": 263.48,
+    "photo": "https://www.bfgcdn.com/600_600_90/104-2436-0311/black-yak-womens-gore-tex-c-knit-jacket-i-veste-impermeable.jpg",
+    "labels": "['oeko_tex', 'blue_sign']",
+    "url": "https://www.alpiniste.fr/black-yak-womens-gore-tex-c-knit-jacket-i-veste-impermeable/"
+  },
+  {
+    "FIELD1": 62,
+    "titre": "Black diamond First Light Hybrid Bleu - Trekkinn",
+    "desc": "Sweat à capuche idéal pour alpinisme Le capuchon Black Diamond First Light Hybrid Light est une couche isolante à capuche chaude, déperlant et coupe-vent, conçue pour tous les passionnés d'alpinisme et de confort. Il est construit pour offrir une fonctionnalité optimale et une isolation respirante lors d'activités intenses en montagne, telles que la randonnée ou la randonnée en montagne. Fabriqué avec une combinaison exclusive de laine mérinos et de technologie Nanosphere sur la surface extérieure qui repousse l'eau, la saleté et l'humidité, vous gardant parfaitement protégé et au chaud toute la journée. Merci à l' isolation Primaloft Silver actif qui est placé stratégiquement pour fournir une respirabilité et un confort maximum dans les zones sujettes à l'humidité. Cette isolation résistante à la migration régule la température corporelle et augmente le confort lorsque vous sautez les plus hauts rochers ou escaladez les montagnes. Les conceptions articulées et les soufflets sous les bras offrent mobilité et confort lors des mouvements du corps. Grâce à la cagoule ajustable compatible avec un casque d'escalade, votre tête et votre dos sont protégés même lorsque vous pratiquez des activités en montagne. De plus, les 2 poches offrent une grande capacité de stockage pour vos objets essentiels. Aucun doute, le capuchon à capuche Black Diamond First Light Hybrid est un sweat à capuche idéal pour vos sorties en montagne car il convient à toutes les conditions météorologiques et peut être rangé dans sa propre poche intérieure. Couche intermédiaire isolante très polyvalente combinant les avantages de notre isolation First Light avec des empiècements en laine mérinos mélangée, le sweat à capuche hybride First Light isole, respire et se déplace avec vous pendant les prémices de l'aube, les descentes de phare et tout le reste. Ce sweat à capuche dynamique comprend une isolation PrimaLoft® Silver résistante à la migration, active dans la capuche, la poitrine et les bras, avec de la laine mérinos mélangée dans le corps et les aisselles pour une respirabilité accrue et une plus grande liberté de mouvement. Le tissu de coque Schoeller® léger recouvrant l'isolant est doté d'une technologie NanoSphere® qui résiste aux intempéries, et les poches de poitrine à fermeture à glissière permettent de ranger de petits objets essentiels. Black diamond First Light Hybrid est disponible en différentes tailles et couleurs.",
+    "price": 135.99,
+    "photo": "/f/13720/137209265/black-diamond-first-light-hybrid.jpg",
+    "labels": "['etiquette_energie_des_appareils_electromenagers', 'blue_sign']",
+    "url": "https://www.trekkinn.com/montagne/black-diamond-first-light-hybrid/137209265/p"
+  },
+  {
+    "FIELD1": 63,
+    "titre": "Protege sol pour chaise de bureau - Plaque protectrice pour moquette - Tapistar.fr",
+    "desc": "Sans protection adéquate, votre sol se détériorera très rapidement. Il est donc tout à fait légitime de vouloir opter pour une protection. La plaque EcoDesk pour moquette a été conçue pour répondre à vos besoins. Office Marshal®, un des leader dans le domaine, innove en proposant pour la première fois un tapis entièrement fabriqué en PET recyclé, sans substances nocives et sans perturbateurs endocriniens. Au delà d'un geste éco-responsable, choisir le tapis EcoDesk c'est aussi préserver la santé de tous. La face inférieure s'ancre à votre moquette par l'intermédiaire de petits picots tandis que la surface supérieure ChairGlide présente un léger grain, particulièrement efficace pour le roulement des fauteuils ou caisson de bureau. Contrôlé et certifié TÜV, le tapis EcoDesk a également reçu le célèbre Éco-label Der blauer Engel. Les différentes tailles proposées vous permettent de choisir le modèle idéal pour votre bureau, à la maison comme au travail. Matière: Polytéréphtalate d'éthylène (PET) 100% recyclé Épaisseur : 1,8 mm Transparent Testé et certifié TÜV Certifié Blauer Engel (label écologique allemand) Antidérapant selon DIN EN ISO 13287 / 01.2008 (résistance au glissement) Résistant aux roulettes de siège selon DIN EN 425 / 08.2002 Classement de réaction et de résistance au feu M1 (DIN 4102/B1) Convient au chauffage par le sol Convient pour moquette et tapis (hauteur velour max. 15 mm) Résistant aux chocs & isolant phonique Nous proposons aux particuliers tant qu'aux professionnels d'établir un devis individuel. Renseignement téléphonique au 04 85 88 00 05.",
+    "price": 42.9,
+    "photo": "https://www.tapistar.fr/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/p/r/protege-sol-pour-chaise-de-bureau-picot.jpg",
+    "labels": "['ange_bleu']",
+    "url": "https://www.tapistar.fr/protege-sol-pour-chaise-de-bureau.html?pid=1962&gclid=CjwKCAiA98TxBRBtEiwAVRLqu_xaSGve9vDhapPuCRIRQIZj3XStPsPnN2rrIjYWsnnR4Ig-qQc9IhoCyIMQAvD_BwE"
+  },
+  {
+    "FIELD1": 64,
+    "titre": "Oh Lou Lou! ORGANIC ANTI-AGING CREAM - Oh Lou Lou! - Cosmétiques BIO & naturels",
+    "desc": "Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) butter​​*, Helianthus annuus (Sunflower) seed oil* & Calendula officinalis (Marigold) flower extract*, Pelargonium graveolens (Rose Geranium) flower oil*, Aniba rosaeodora (Bois de Rose) wood oil*, Daucus carota sativa (Carrot) seed oil*, Lavandula hybrida (Lavender) oil*, Tocopherol (vit. E), (limonene, linalool, geraniol, benzyl benzoate, citronnellol, citral)**. *Organic **Naturally occurring in essential oils For external use only. Avoid direct eye contact. If irritation occurs discontinue use. Keep at room temperature 15°-25°C(max). Oh Lou Lou! They are super-rich and nourishing and a little goes long way. For the face for example you would usually need an amount that is about the size of a grain of rice. The creams may change the consistency when too hot or too cold, but they will not change the quality. The butters and creams melt on temperatures above 25°C (note if this happens, products won’t lose the quality), and would need to be kept on a cooler space or refrigerated.9oz.",
+    "price": 34.6,
+    "photo": "https://www.ohloulou.com/images/thumbs/0001834_belle-comme-une-rose-anti-age-night_870.jpeg",
+    "labels": "['ecogarantie']",
+    "url": "https://www.ohloulou.com/creme-de-nuit"
+  },
+  {
+    "FIELD1": 65,
+    "titre": "Liquide vaisselle Peau sensible - Sans fragrance I ATTITUDE",
+    "desc": "Évitez-vous de faire la vaisselle ou de vous laver les mains par peur de les assécher? N’y pensez plus! Utilisez de l’eau tiède plutôt que chaude, vous préserverez ainsi les huiles naturelles qui protègent votre peau. Une autre astuce consiste à utiliser le liquide vaisselle naturel d’ATTITUDE pour peau sensible. Il s’attaque à la graisse et aux résidus de nourriture tout en demeurant doux pour vos doigts. Pour nous en assurer, nous l’avons fait tester sous contrôle dermatologique et certifier par la National Eczema Association!",
+    "price": 4.95,
+    "photo": "http://cdn.shopify.com/s/files/1/0070/3587/9494/products/60319-ATTITUDE-liquide-vaisselle-naturel-sans-fragrance--2_grande.jpg?v=1559335105",
+    "labels": "['cruelty_free_peta', 'vegan', 'biodegradable', 'ecologo', 'recyclable']",
+    "url": "https://labonneattitude.com/collections/vaisselle/products/liquide-vaisselle-naturel"
+  },
+  {
+    "FIELD1": 66,
+    "titre": "M's Retro Pile Jkt El Cap Khaki Patagonia - Polaires - Snowleader",
+    "desc": "Les tissus Polartec sont divisés en plusieurs gammes en fonction de leurs textures et de leurs poids.snowleader. La veste M's Retro Pile Jacket pour Homme de Patagonia est une polaire doublée qui vous apportera chaleur et tendance avec son imitation mouton. Très confortable et facile d'entretien, elle est également très pratique car dotée de nombreuses poches zippées pour plus de commodité. Ses coutures plates permettent de réduire le volume de matière et ainsi de limiter les frottements. Toujours pour favoriser le confort de porté, la polaire possède des manches raglan pour une meilleur liberté de mouvement et plus de praticité. En ce qui concerne la coupe, celle-ci est regular pour un rendu relax avec un jean. Très engagée dans le respect de l'environnement, la marque Patagonia a favorisé les matériaux recyclés pour vous proposer un produit confectionné à base de matières certifiées Bluesign Tm.",
+    "price": 129.9,
+    "photo": "https://images.cdn.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/m/-/m-s-retro-pile-jkt-el-cap-khaki-configurable-patagonia-pata01103_03.jpg",
+    "labels": "['blue_sign', 'fair_trade_certified']",
+    "url": "https://www.snowleader.com/m-s-retro-pile-jkt-el-cap-khaki-PATA01103.html?couleur=&size=S&utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAiA98TxBRBtEiwAVRLquxvQMD7RSmDJU_gQDl3n3sObCmNCzObAfAj7-f2UNprnheVNrSopJxoCrT4QAvD_BwE"
+  },
+  {
+    "FIELD1": 67,
+    "titre": "Creator - T-shirt Bio Publicitaire - Stanley - Stella",
+    "desc": "Pour des vêtements personnalisables hommes et femmes destinés aux professionnels, les vêtements bio de la marque Stanley/Stella sont faits pour vous. Fabriqués dans des matières éco-responsables pour un respect de l'environnement, cette marque propose des vêtements tendances, design mais aussi innovants. Chez KelCom, tous ces vêtements peuvent être personnalisés selon vos envies. Nous vous proposons également différentes techniques d'impression de t-shirt Stanley/Stella personnalisé, une façon originale de vous démarquer. Dans la nouvelle collection de chez Stanley/Stella, voici ce joli tee-shirt publicitaire unisexe biologique, totalement ajusté, à col rond et fabriqué à 100% de coton organique pour un confort incomparable et une agréable légèreté. Un t-shirt disponible dans une large gamme de couleurs très tendances, qui saura mettre en valeur votre marque. Augmentez la visibilité de votre entreprise et imprimiez dessus votre logo ou encore un slogan. Vous pouvez compter sur notre savoir-faire pour la réalisation de tous vos projets de personnalisation sur un grand nombre de vêtements. Grâce à différents procédés de flocage de tee-shirt publicitaire, votre tee-shirt écologique sera personnalisé selon vos besoins. Pour cela, il suffit de prendre contact avec nous ou bien de demander directement un devis sur notre site !",
+    "price": 0,
+    "photo": "/images/catalogue/produit/medium/flocage-tee-shirt-promotionnel-creator_french-navy.jpg",
+    "labels": "['global_organic_textile_standard_gots', 'oeko_tex', 'fair_wear_foundation']",
+    "url": "https://www.vetibio.com/vetement-professionnel/t-shirts-publicitaires-stanley-stella/flocage-tee-shirt-promotionnel-creator"
+  },
+  {
+    "FIELD1": 68,
+    "titre": "Pukka Infusion \"Menthe Poivrée & Réglisse\" Bio - 20 pièces",
+    "desc": "La Tisane Menthe Poivrée & Réglisse de pukka éveille chacun de vos sens, grâce à : La racine de réglisse naturelle FairWild, Associée à l'éclat mentholé des feuilles de menthe fraîches. Laissez infuser avant de déguster. 60% 40% provenant de l'agriculture biologique contrôlée.",
+    "price": 4.29,
+    "photo": "https://cdn-ec.niceshops.com/upload/image/product/facebook/default/pukka-infusion-menthe-poivree-reglisse-20-st-1252426-fr.jpg",
+    "labels": "['agriculture_biologique', 'co2_neutral', 'vegan', 'fair_wild', 'soil_association']",
+    "url": "https://www.ecco-verde.fr/pukka/infusion-menthe-poivree-reglisse?gclid=CjwKCAiA98TxBRBtEiwAVRLqu75qdnHwttPXjYydhfWsPEi37y7Ph-qcm7LvJqc5FHyUV9KAuhV-phoCctEQAvD_BwE"
+  },
+  {
+    "FIELD1": 69,
+    "titre": "Sweat recyclé - original haze bleu pastel - Hopaal",
+    "desc": "",
+    "price": 80,
+    "photo": "https://d2hnh3d6vfy9oz.cloudfront.net/3oUxAuzPp-r6vKB6z_AYaQ0IzXCdQkAqk1CsiqP6jGs/auto/650/0/sm/1/czM6Ly93ZWRyZXNz/ZmFpci1wcm9kdWN0/aW9uL0NVdU5NRUV0/cW9yY1lhTmJkOFpM/Y1ZTTQ",
+    "labels": "['made_in_france', 'global_organic_textile_standard_gots', 'oeko_tex', 'global_recycled_standard']",
+    "url": "https://www.wedressfair.fr/collections/sweat-recycle-original-haze-hopaal"
+  },
+  {
+    "FIELD1": 70,
+    "titre": "Couches Écologiques Eco by T0 - 1-4.5 kg - 25 couches -  NATY - Bébé au Naturel",
+    "desc": "Fluff 100 % cellulose certifiée FSC blanchie sans chlore (ECF) et Polyacrylate de sodium (SAP) Voile de surface : Green PE à base de canne à sucre et polypropylène (PP) sensation textile Pas de lotion ni de parfum ajoutée Voile de distribution : Non tissé polyesther Voile externe : respirant en Green PE à base de canne à sucre et polypropylène Élastiques : élasthanne sans latex recouvert de Green PE à base de canne à sucre et polypropylène (PP) Barrières anti fuites : polypropylèe hydrophobe recouvert de Green PE à base de canne à sucre et polypropylène (PP) Adhésifs : Polymère base caoutchouc Attaches : Non tissé polypropylène recouvert de Green PE à base de canne à sucre et polypropylène (PP) Encre : Alimentaire sans métaux lourds Emballage : Green PE bioplastic à base de canne à sucre entre 60 et 80% certifié AB vincotte 3 étoiles. Un emballage en GREEN PE certifié 3 étoiles AB VINCOTTE : Initialement en PE recyclable, l’emballage des couches ECO by Naty est désormais en Green PE. Ils consomment de plus a priori moins d’énergie non renouvelable et libèrent moins de carbone en fin de vie que les plastiques d’origine pétrochimique. Ceci dit attention ils ne sont pas pour autant nécessairement biodégradables et ceux qui le sont comme le PLA nécessite des conditions spécifiques pour se décomposer. L’effet de surprise : Une drôle d’odeur peut vous sauter au nez en ouvrant le paquet : c’est normal ! Elle disparaitra rapidement une fois le paquet ouvert…",
+    "price": 7.2,
+    "photo": "images/rep_articles/grandes/26052-53959.jpg",
+    "labels": "['forest_stewardship_council', 'recyclable']",
+    "url": "https://www.bebe-au-naturel.com/naty-couches-ecologiques-eco-by-naty,bebe,produit,0-26052-53959,3.couche-lavable.html?gclid=CjwKCAiA98TxBRBtEiwAVRLqu5PyQMMGv0Evr42t6qYIk6gP5xDmUt_PkjgjIYmBpKjxo1LZYQssrhoC4SMQAvD_BwE"
+  },
+  {
+    "FIELD1": 71,
+    "titre": "Inspires Denim - Chemise Bio Personnalisable - Stanley - Stella",
+    "desc": "Les vêtements personnalisés s’avèrent être nécessaires pour les entreprises. En effet, ils peuvent être utilisés au sein de votre société comme uniformes pour vos salariés ou bien comme cadeaux de fidélisation pour vos clients. Ainsi, nous vous proposons notamment une chemise écologique publicitaire pour assurer votre communication, mais pas n'importe laquelle. En optant pour un flocage de cette chemise bio personnalisée, vous participez également à la protection de l'environnement. Cette chemise Stanley/Stella publicitaire est faite à 100% en coton organique peigné compact ring-spun et en denim bio et tissé. Elle est disponible deux couleurs particulièrement tendances et élégantes. Le flocage de cette chemise personnalisée apportera à votre entreprise une certaine visibilité et renverra une image de société responsable, moderne et dynamique. Faîtes le bon choix en choisissant Kelcom et Stanley/Stella, un duo qui ne pourra qu'optimiser votre communication. N'hésitez pas à nous contacter pour solliciter nos services ou bien à demander un devis directement sur notre site.",
+    "price": 0,
+    "photo": "/images/catalogue/produit/medium/chemise-bio-personnalisee-inspires-denim_light-indigo-denim.jpg",
+    "labels": "['oeko_tex', 'fair_wear_foundation', 'organic_content_standard']",
+    "url": "https://www.vetibio.com/vetement-professionnel/chemises-publicitaires-stanley-stella/chemise-bio-personnalisee-inspires-denim"
+  },
+  {
+    "FIELD1": 72,
+    "titre": "Shampoing Bio - Odylique - Demangeaison Cuir Chevelu",
+    "desc": "Mon cuir chevelu est enfin apaisé Chilali Chez nous, tout le monde l'utilise Gaëlle Mis en application durant ce weekend, il y a nette amélioration du psoriasis sur la tête. Vraiment merci Jean-Pierre J’utilise ce shampooing pour ma fille qui souffre de psoriasis! C’est magique la soulage énormément et a une vrai action bénéfique sur ses plaques Gioia j'ai du psoriasis cuir chevelu, et après avoir acheté des dizaines de shampoings, le vôtre est le seul à vraiment avoir amélioré les démangeaisons / pellicules. Je revis ! C’est un shampoing sans sulfate, sans silicone, sans conservateur de synthèse, sans sel et sans parfum. Formulé pour tout cuir chevelu sensible, ce shampoing bio ultra doux l'équilibre naturellement et rapidement grâce à ses extraits de plantes bio comme la prêle, le calendula et la camomille, ainsi qu'à sa base lavante douce à base de sucre et d'huile vierge de coco*. Ce shampoing bio doux est équilibrant pour tous les types de cheveux. Il ne pique pas les yeux et convient à toute la famille, même aux plus jeunes enfants. Il se présente sous forme d'une crème légère qui émulsionne agréablement sous les doigts. Il laisse le cheveu doux, net, et facile à coiffer. En cas de démangeaison du cuir chevelu, il apaise efficacement et hydrate. Le Shampoing Extra Doux aux Plantes Bio est un shampoing anti démangeaison particulièrement adapté en cas de psoriasis cuir chevelu, eczéma cuir chevelu, et pour tout cuir chevelu irrité dont il contribue à soulager les manifestations, d'après les années d'expérience des utilisateurs. Il est aussi recommandé aux personnes allergiques. Il a reçu de nombreuses récompenses. Il était déjà recommandé par L'Observatoire des Cosmétiques dans le Guide des Meilleurs Cosmétiques 2013-2014 éd.Médicis, par L.Wittner et H.Le.Héno. *cette huile vierge de coco extra pure n'a pas une odeur perceptible Actifs : Prêle renforcissante Jus d’aloe vera réparateur Huile de coco conditionnante Camomille apaisante Ortie biodynamique pour la santé du cuir chevelu Romarin pour la brillance. Convient aux végétaliens. 100% naturel - 70% bio Certifié bio par la Soil Association. pH 5,5 - équilibré au pH de la peau Bouteille 100% recyclée (qui fut autrefois une bouteille de lait!",
+    "price": 15,
+    "photo": "https://www.odylique.fr/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/g/e/gentle_herb_shampoo_200ml_flip_top_web_2.png",
+    "labels": "['cruelty_free_peta', 'soil_association']",
+    "url": "https://www.odylique.fr/shampoing-extra-doux-aux-plantes-bio.html?gclid=CjwKCAiA98TxBRBtEiwAVRLqu1-57EMirzLpC-Z90R8vlEklTTWFMqvYi7laoUL1MmPPaLoT_YDHERoCu0oQAvD_BwE"
+  },
+  {
+    "FIELD1": 73,
+    "titre": "Poudre de moringa bio",
+    "desc": "99 seulement, la Poudre de moringa bio est 100 % bio et certifiée par la Soil Association.",
+    "price": 3.14,
+    "photo": "https://www.bulkpowders.fr/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/p/u/purepouch320x400_583.jpg",
+    "labels": "['soil_association']",
+    "url": "https://www.bulkpowders.fr/poudre-de-moringa-bio.html?view=ppc&pid=4093&gclid=CjwKCAiA98TxBRBtEiwAVRLqu7EJu_Grg-_vHksto3yL5Y24FHBTOH8iwjyhUddjoKG7fo-hDfB3XRoCPiIQAvD_BwE"
+  },
+  {
+    "FIELD1": 74,
+    "titre": "Tapis de laine Quashqai Orange",
+    "desc": "Le particulier tapis de couloir Qashqai par Brink & Campman garantit une qualité et un style incroyables. Convient autant pour les couloirs que pour les pièces plus grandes, il dégage une atmosphère agréable et familiale. Le tapis Qashqai est tissé à la machine aux Pays-Bas, en utilisant les derniers techniques. Grâce à sa surface facile d'entretien, le tapis Qashqai durera toute une vie. Avec son traitement résistant et ses matériaux d'excellente qualité, ce tapis assure durabilité et confort. Tissés à la machine, ces tapis sont fabriqués aux Pays-Bas, utilisant les toutes dernières technologies. Grâce à leurs surfaces en laine, ces tapis disposent d'une longue durée de vie et apporteront un bien-être et un confort garantis Tous les tapis Brink & Campman sont contrôlés chaque année par l'organisme indépendant Öko-Tex Standard 100. Nos produits répondent aux exigences écologiques et humaines établies par l'organisme. Brink & Campman est membre de l'association Care & Fair, qui promeut un commerce équitable, condamnant le travail des enfants.",
+    "price": 358,
+    "photo": "https://www.benuta.fr/media/catalog/product/cache/23190e23b733ac617b05ca54ab636379/2/2/2252f3252f8252f1252f23819680d490db3d6e3ee6f18cc2aaad7d0b7695_brink___campman_laeufer_quashqai_orange_100100099_1.jpg",
+    "labels": "['oeko_tex', 'care_fair']",
+    "url": "https://www.benuta.fr/tapis-de-laine-quashqai-orange-60000282-32103.html?gclid=CjwKCAiA98TxBRBtEiwAVRLquyEGgZZ6GSKeZkbZLyUOFxA2JGTLfqILaTibJuq5nO1xoa5LQETmPxoCYB8QAvD_BwE#187=2857"
+  },
+  {
+    "FIELD1": 75,
+    "titre": "Neutral 83101 - Fair fibers T-shirts bio personnalisés - accessoires éco-conçus",
+    "desc": "Sweat femme avec capuche. Capuche doublée. Manches raglan. Poche kangourou sur le devant. Cordons plats ton sur ton. Intérieur molleton brossé doux.",
+    "price": 0,
+    "photo": "http://www.fairfibers.fr/wp-content/uploads/2016/06/O83101_GREY.jpg",
+    "labels": "['fairtrade_max_havelaar']",
+    "url": "http://www.fairfibers.fr/boutique/collections/neutral-83101/"
+  },
+  {
+    "FIELD1": 76,
+    "titre": "Tasse à café Ananta par 4",
+    "desc": "Céramique bleue et terracotta avec motif noeud de. l'infini appliqué à la main. 8,5 cm dia x 5,5 cm ht. Céramique adaptée au lave-vaisselle et micro-ondes. Produit ne contenant pas de métaux lourds.",
+    "price": 15.4,
+    "photo": "https://www.boutique-artisans-du-monde.com/media/catalog/product/cache/1/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/a/c/acp617-04_1.jpg",
+    "labels": "['wfto']",
+    "url": "https://www.boutique-artisans-du-monde.com/tasse-a-cafe-ananta-2751.html"
+  },
+  {
+    "FIELD1": 77,
+    "titre": "Crème de Karité Hydratante - Karethic",
+    "desc": "Face aux petits pas de l'état pour la planète, participez à la réduction des déchets et du plastique avec Karethic. Vous êtes dans une démarche écologique, aimez nos produits mais ne savez pas quoi faire de vos pots en verre et tubes vides? La solution: Renvoyez-nous vos contenants Karethic vides 1 fois par an ou apportez-les au siège de Karethic à Lyon si vous vivez en région Lyonnaise. Pour vous remercier pour cet effort nous vous offrons un coupon de 10% de réduction valable à vie sur tous nos produits.",
+    "price": 16,
+    "photo": "https://karethic.com/wp-content/uploads/2016/10/creme_hydratante_karethic.png",
+    "labels": "['agriculture_biologique', 'cosmebio', 'cruelty_free_peta', 'vegan', 'recyclable', 'wfto']",
+    "url": "https://karethic.com/collection/creme-de-karite-hydratante-karite-pur/"
+  },
+  {
+    "FIELD1": 78,
+    "titre": "Klamath afa certifié otco - 120 gélules - Sevellia",
+    "desc": "La Klamath Bio pailletée Naturoconcept, le gage de la qualité À l’origine de la vie sur Terre, il y a 3 milliards d’années, les premières formes de vie apparurent sur Terre dans l’eau sous la forme de cyanobactérie (appelées aussi algues d’eau douce) qui est à l’origine de l’oxygène que nous respirons aujourd’hui. Durant ces 3 milliards d’années, elles ont dû s’adapter aux multiples changements qu’a connus notre planète pour survivre. Elles ont ainsi emmagasiné dans leur ADN, une quantité d’informations et d’expériences colossales. L’algue Klamath a de particulier, qu’elle ne pousse que dans un endroit au monde, le lac Upper Klamath, situé dans l’Oregon aux USA, dans la région de KLAMATH FALLS à 1200m. C’est dans ce biotope unique au monde que nous sommes allés chercher pour vous la meilleure des qualités de Klamath bio pailletée existante. Le saviez-vous ? C’est le nom du peuple amérindien, les Klamaths, qui vivaient dans le sud de l’Oregon,autour du lac et du fleuve Klamath. La récolte, le séchage, et la consommation de cette algue étaient pour les Indiens Klamath un acte sacré. Propriété de la Klamath bio pailletée La richesse en PEA de la Klamath (phényléthylamine) un acide aminé du bonheur (proche des amphétamines dans sa structure moléculaire) explique à lui seul le coté magique que les Indiens donnaient à la consommation de Klamath. La klamath est réputée pour favoriser la bonne humeur. D'ailleurs, l'AFA-phycocyanine (mycosporine-like aminoacids) est une molécule algale spécifique très recherchée. L’AFA est considérée comme l'aliment le plus complet de la planète. En effet, son étonnante concentration en micronutriments, vitamines, oligo-éléments en fait un complément alimentaire complet hautement énergisant et équilibré aux pouvoirs nutritifs inégalés. En effet, l'Algue Klamath contient pas moins de 115 nutriments, dont : 14 vitamines : À, C, E, K, B1, B2, B3, B6, B8 et particulièrement riche en B12. Plus de 60 minéraux et oligo-éléments, dont le Fer, le Calcium, le Magnésium, le Zinc, le Cuivre, le Phosphore, le Germanium, le Potassium ou encore le sélénium. Des protéines (3,5 fois plus que le bœuf ou les œufs, représentent 50% du poids de l'algue klamath), dont tous les acides aminés parfaitement assimilables. Des acides gras insaturés oméga 3 et 6 Elle contient également de nombreux caroténoïdes, dont le bêta-carotène, des polyphénols, des polysaccharides, des peptides et du bêta-phényléthylamine. La Klamath bio pailletée de chez Naturoconcept, le choix de la qualité sans concession. Cela fait plusieurs années que nous recherchions de la vraie Klamath bio pailletée, seul gage d’une qualité et d’une efficacité optimum ! La Klamath sélectionnée par NATUROCONCEPT est séchée selon le procédé Hydro Dry™ qui consiste à enlever en douceur l’eau contenue dans l’algue brute, grâce à de l’eau chaude ! Une trop grande chaleur lors du séchage altérerait grandement les propriétés bénéfiques de la Klamath. L’algue séchée selon ce procédé Hydro Dry™ n’est chauffée que très peu de temps ce qui permet d’obtenir un produit proche de son état naturel. D’ailleurs cette qualité de KLAMATH se reconnait par son aspect légèrement pailleté, ce qui est la garantie de sa pureté. Attention de nombreux produits mis sur le marché sont coupés avec de la spiruline, d’où l’absence de paillette Notre fournisseur est le seul récoltant qui, sur le Lac Klamath, intègre, sur son site proche du Lac Klamath, l’ensemble de la chaîne de production, permettant ainsi d’avoir sous contrôle l’ensemble des différentes phases de ce procédé (de la récolte en juillet-août lors de la floraison, à l’expédition de la poudre ou des paillettes, en passant par le séchage). Grâce à ce procédé de séchage Hydro Dry™, qui évite donc des manipulations et de longs trajets par camion frigorifique, l’algue bleue-vert du Lac Klamath que NATUROCONCEPT propose est de première qualité. Chaque lot que nous recevons fait l‘objet d’une contre-analyse réalisée en France, garantissant ainsi l‘absence de microcystine et un taux garanti de phénylétilamine. De plus le choix de nos piluliers aux normes pharmaceutiques vous garantissent une conservation optimum, une absence d'interaction contenant contenu, et une protection du produit des UV et de l’oxydation de l’air. Ne pas dépasser la dose journalière recommandée - Les compléments alimentaires ne remplacent pas une alimentation variée et équilibrée - Garder hors de portée des enfants. à l'abri de l'humidité dans son emballage d'origine.",
+    "price": 21.5,
+    "photo": "https://sevellia.com/media/image_vendor/cache/image/350x/A/r/ART0099-1.jpg",
+    "labels": "['otco']",
+    "url": "https://sevellia.com/klamath-afa-certifie-otco-120-gelules.html?gclid=Cj0KCQiAmsrxBRDaARIsANyiD1q0NFm7ClKNqhXTT77cuaLmRqzlj0mjw_d52B2OOVAXWdymGjry6-EaArHVEALw_wcB"
+  },
+  {
+    "FIELD1": 79,
+    "titre": "Klamath BIO pure en poudre (AFA) - DLT Hydro Dri® - 150g - Dynveo",
+    "desc": "La Klamath ( Aphanizomenon flos-aquae (AFA) ) est appelée ainsi couramment, car récoltée dans le lac du même nom en Oregon (au nord-ouest des É tats-Unis). Elle se développe uniquement à l'état sauvage dans ce milieu très particulier alimenté par des eaux volcaniques. Elle possède de nombreuses propriétés santé que nous ne pouvons malheureusement évoquer ici à cause de la législation en vigueur. Par ailleurs, la klamath bio est très riche en protéines, vitamines, minéraux, oligo-éléments, acides gras insaturés et en antioxydants. Si vous préférez, vous pouvez choisir ce même produit au format en gélules :. Notre Klamath est certifiée bio par OTCO (Oregon Tilth Certified Organic) mais aussi et surtout certifiée bio en Europe / France (le label OTCO n'a aucune valeur en France). . La qualité DLT Hydro Dri®. C'est pourquoi, après avoir étudié tous les fournisseurs présents sur le marché, nous avons choisi de développer cette klamath bio en partenariat avec la société Cerule (USA) qui propose le système de séchage à basse température le plus avancé à ce jour : l e système breveté DLT Hydro Dri®. Ce séchage à basse température est particulièrement doux et n'induit aucun choc thermique. En fait il est même encore moins traumatisant que le séchage par rayons infrarouges, ce qui est la raison principale de notre choix. L 'humidité est délicatement retirée via une méthode innovante de séchage par transfert de chaleur qui traite facilement les fortes concentrations de viscosité de l'algue. DLT Hydro Dri® est une méthode de séchage naturelle et la plus haut de gamme pour préserver de la meilleure façon les bienfaits de la klamath bio. Elle est d'ailleurs vraiment d'une couleur bleu vert. La qualité Selective Harvesting System® pour une Klamath pure.. Avant d'être séchée, la klamath doit être récoltée et triée afin de délaisser les autres microalgues présentes dans le lac. C'est dans ce but que la société Cerule a développé son propre site de récolte et a breveté sa propre méthode de sélection appelée Selective Harvesting System®. Il s'agit de plateformes équipées d'un système sélectif qui vont permettre de ne prélever que la klamath pure directement dans son écosystème. La pureté de l'algue est également assurée par une étape de microfiltration pour permettre l'élimination des éventuelles impuretés. Nous avons ainsi une klamath bio particulièrement pure et riche en nutriments biodisponibles et actifs. Pour finir, cette Klamath a fait l'objet de deux analyses indépendantes (aux É tats-Unis et en France) afin de garantir l'absence de polluants, de métaux lourds, de microcystines et autres contaminants. Analyse nutritionnelle de notre klamath bio. La cuillère doseuse est fournie avec le produit... Tous nos flacons sont recyclables et certifiés sans bisphénols, sans phtalates et sans aluminium (y compris sous l'opercule de scellage). Nous n'utilisons pas non plus de flacons en PETE qui contiennent de l'antimoine (perturbateur endocrinien). Produit végan (100% végétalien et non testé sur les animaux).",
+    "price": 58,
+    "photo": "https://www.dynveo.fr/471-medium_default/klamath-bio.jpg",
+    "labels": "['no_animal_test', 'vegan', 'recyclable', 'otco', 'euro_feuille']",
+    "url": "https://www.dynveo.fr/klamath-bio.html?gclid=Cj0KCQiAmsrxBRDaARIsANyiD1pCGfGCjlhhc6O-QEHcllLw_vpgq7DpsRtqRF4ataW9J-rFQsr9s7AaAseeEALw_wcB"
+  },
+  {
+    "FIELD1": 80,
+    "titre": "Enduit de lissage AXTON 15 kg en pâte - pour mur intérieur - Leroy Merlin",
+    "desc": "Temps de séchage entre 2 couches (en h):12 Nettoyage des outils:A l'eau Norme ou label:NF ENVIRONNEMENT.",
+    "price": 23.9,
+    "photo": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86bGVyb3ltZXJsaW4tZnI/72e0665d-1598-54d0-baf3-3159064dbd16",
+    "labels": "['made_in_france', 'nf_environnement', 'etiquette_energie_des_appareils_electromenagers']",
+    "url": "https://www.leroymerlin.fr/v3/p/produits/enduit-de-lissage-axton-15-kg-en-pate-pour-mur-interieur-e1500314847"
+  },
+  {
+    "FIELD1": 81,
+    "titre": "Meuble bas NF Environnement sans portes - H.72 x L. 80 x P. 48 cm - Chêne - Bernard.fr",
+    "desc": "Décors compatibles avec les gammes Biospace, Imédia, Variation, Expression, Evolution. L'assurance de rangements résistants et respectueux de l'environnement ! Très robuste et résistant aux rayures, structure en panneaux de particules en mélaminé labellisés PEFC traités anti-reflet et conformes aux normes du FCBA, épaisseur de 16 et 25 mm. Equipé d'une tablette intérieure réglable à la hauteur souhaitée. Rails pour dossiers suspendus vendus option. Possibilité de régler les 4 patins depuis l'intérieur du meuble pour la mise à niveau en fonction des imperfections du sol. Le meuble peut s'utiliser dans le prolongement du bureau profondeur 80 cm comme rangement de proximité à hauteur du bureau. L. 80 x H. 72 x P. 48 cm. Chêne Fabrication française. Norme NF Environnement. Certificat PEFC. Norme Office excellence certifié. Norme GS. Norme ISO 9001 et ISO 14001. Garantie 7 ans. Rails pour dossiers suspendus. Meuble livré prêt à monter. Photo non contractuelle.",
+    "price": 199,
+    "photo": "/Images/shared/stardust.gif?v=HjLjbg7dJZzzYnHzgpIAAw",
+    "labels": "['made_in_france', 'programme_for_the_endorsement_of_forest_certification', 'nf_environnement']",
+    "url": "https://www.bernard.fr/meuble-bas-nf-environnement-sans-portes-h72-x-l-80-x-p-48-cm-chene/cbs/79122C1.html?effort_code=WW&promoCode=460460055&find_number=79122C1"
+  },
+  {
+    "FIELD1": 82,
+    "titre": "Savon d'Alep Naturel 12% Huile de baies de Laurier",
+    "desc": "Le savon d’ALEP est un savon naturel et authentique. Respectueux de la peau et de l’environnement. Idéal pour visage et corps. Très doux.",
+    "price": 4.9,
+    "photo": "//cdn.shopify.com/s/files/1/0070/3633/8240/products/Savon-dalep_1000x1000.jpg?v=1583838793",
+    "labels": "['zero_waste']",
+    "url": "https://waio.co/products/savon-dalep-12"
+  },
+  {
+    "FIELD1": 83,
+    "titre": "Couvre plat lin biologique certifié lot de 2 - Hakuna Taka zero dechet",
+    "desc": "Lot de 2 tailles différentes Pour grands plats rectangles 100% lin biologique épais Made in France Couleur écrue Elastique autour pour bien recouvrir le plat Couvre plat pour remplacer film plastique ou papier aluminium dans un mode de vie zéro déchet. Couvre plat réutilisable pour couvrir sainement de grandes quantités de restes : viandes, poissons, gratins, lasagnes... ou une grande quantité d'aliments à conserver au réfrigérateur ou à température ambiante dans la cuisine. Refuser les emballages alimentaires jetables et les remplacer par un couvre plat en lin biologique lavable et réutilisable est : Respectueux de l'environnement Sain Économique Lot de 2 tailles différentes. Fabrication française. Hakuna Taka.",
+    "price": 24.95,
+    "photo": "https://www.boutiquezerodechet.com/779-large_default/couvre-plat.jpg",
+    "labels": "['made_in_france', 'ecocert', 'zero_waste', 'global_organic_textile_standard_gots', 'recyclable']",
+    "url": "https://www.boutiquezerodechet.com/maison-zero-dechet/251-couvre-plat.html"
+  },
+  {
+    "FIELD1": 84,
+    "titre": "Brosse à légumes en bois FSC - Dream Act",
+    "desc": "Brosse à légumes bois FSC : Cette brosse à légumes en bois issu de forêts gérées durabelement (certifiées FSC) fabriquée par la marque Ah ! table !® est idéale pour brosser tes fruits et légumes afin de conserver la peau (qui a bien souvent des vertus !). La brosse à légumes est fabriquée en Allemagne pour des fruits et légumes sans pesticides et pour une cuisine zéro déchet. Jolie Planète a pour objectif de participer à la préservation de la planète en proposant des alternatives écologiques, durables et zéro déchet afin de ne pas polluer la planète. Jolie Planète sélectionne rigoureusement les produits en fonction de leur impact sur la planète et de leur provenance : les produits venant de France et issus de l'artisanat sont favorisés. La marque a par ailleurs choisi de distribuer des produits fabriqués plus loin qu'en France lorsqu'il s'agit de produits qui n'existent pas en fabrication française et qui ont une réelle utilité pour réduire son impact environnemental. Jolie Planète travaille également en collaboration avec un centre de travailleurs handicapés.",
+    "price": 3.6,
+    "photo": "https://dreamact.eu/uploads/images/products/19938/brosse-a-legumes-bois-fsc.jpg?width=505&height=505&scale=canvas",
+    "labels": "['made_in_france', 'forest_stewardship_council', 'zero_waste']",
+    "url": "https://dreamact.eu/fr/product/19938/brosse-a-legumes-en-bois-fsc"
+  },
+  {
+    "FIELD1": 85,
+    "titre": "Baume à lèvres mangue cannerberge - EXÉCO",
+    "desc": "Baume à lèvres à la canneberge et à la mangue hydratant et riche en antioxydants. Avec huiles essentielles d’orange et de palmarosa, c’est un mélange idéal pour la régénération de la peau. Baume conçu dans du contenant en carton compostable. L’étiquette sur le dessus est faite de fibres de canne à sucre recyclée et est 100% compostable selon la norme internationale ASTM D6868 EN13432. Belle initiative de l’entreprise québécoise Atoca !",
+    "price": 6.99,
+    "photo": "https://execo.xyz/wp-content/uploads/2019/03/Capture-d’écran-2019-01-25-à-12.30.50.png",
+    "labels": "['agriculture_biologique', 'zero_waste']",
+    "url": "https://execo.xyz/boutique/soins-corporels/baume-a-levres-mangue-cannerberge/"
+  },
+  {
+    "FIELD1": 86,
+    "titre": "3 flacons dilutions du Propre - Ecologique - Body Nature",
+    "desc": "Pour un bon entretien de votre vaporisateur, rincer fréquemment le filtre situé à l'extrémité du tube plongeur.",
+    "price": 6.9,
+    "photo": "https://www.body-nature.fr/sites/default/files/styles/large/public/import/products/017026.jpg?itok=2SelhPZv",
+    "labels": "['made_in_france']",
+    "url": "https://www.body-nature.fr/nos-produits/les-3-flacons-dilutions-du-propre"
+  },
+  {
+    "FIELD1": 87,
+    "titre": "Lait de toilette visage et corps bébé bio - Hypoallergénique - 75 ml",
+    "desc": "A l'huile d'amande douce, hypoallergénique. Le lait de toilette visage et corps bébé bio de Cattier élimine efficacement les impuretés et laisse la peau propre et saine. Sa formule, enrichie en huile d' amande douce, nourrit, adoucit et préserve l'équilibre naturel cutané. calmant et adoucissant. Glycérine (origine végétale) : hydratante, lissante. Huile de tournesol bio (riche en acide oléique) : hydratante, nourrissante. Le lait de toilette visage et corps bébé bio de Cattier élimine efficacement les impuretés et laisse la peau propre et saine. Sa formule, enrichie en huile d' amande douce, nourrit, adoucit et préserve l'équilibre naturel cutané. calmant et adoucissant. Glycérine (origine végétale) : hydratante, lissante. Huile de tournesol bio (riche en acide oléique) : hydratante, nourrissante. Huile d'amande douce, extrait de calendula, glycérine (origine végétale), huile de tournesol.",
+    "price": 10.8,
+    "photo": "https://www.naturalforme.fr/media/catalog/product/cache/3/image/265x/9df78eab33525d08d6e5fb8d27136e95/l/a/lait_de_toilette_cattier.jpg",
+    "labels": "['agriculture_biologique', 'made_in_france', 'cosmebio', 'ecocert']",
+    "url": "https://www.naturalforme.fr/lait-de-toilette-visage-et-corps-bebe-bio-cattier.html"
+  },
+  {
+    "FIELD1": 88,
+    "titre": "Huile Essentielle Arbre à Thé - Tea-Tree BIO - 10ml de Simplessence",
+    "desc": "Découvrez aussi les meilleurs produits Simplessence.",
+    "price": 4.32,
+    "photo": "https://cdn.1001pharmacies.com/picture/product/232558/250x250/default.jpg?lastupdate=20200401023030",
+    "labels": "[]",
+    "url": "https://www.1001pharmacies.com/simplessence-huile-essentielle-arbre-a-the-tea-tree-bio-10ml-p232558"
+  },
+  {
+    "FIELD1": 89,
+    "titre": "Nouilles à L'épeautre 500g Bio - Pâtes épeautre - Kamut - Autres - Pâtes et sauces - Epicerie Salée",
+    "desc": "Pâtes alimentaires à la farine d'épeautre issue de l'agriculture biologique et biodynamique.",
+    "price": 2.65,
+    "photo": "https://naturalia.fr/media/catalog/product/cache/image/265x265/beff4985b56e3afdbeabfc89641a4582/6/1/615v67p-chl._sl1000_.jpg",
+    "labels": "['agriculture_biologique', 'demeter']",
+    "url": "https://naturalia.fr/tagliatelle-epeautre-500g-2398126"
+  },
+  {
+    "FIELD1": 90,
+    "titre": "Huile de massage à l'arnica 200ml - à E.Leclerc.",
+    "desc": "Cette huile de massage a été spécialement formulée pour faciliter la préparation et la récupération sportives. L'extrait d'Arnica bio soulage. Les huiles bio de tournesol et d'olive garantissent une glisse optimale lors des massages. Les huiles essentielles de lavande et de romarin au parfum aromatique renforcent les effets tonifiants et décontractants du massage. Les masseurs-kinésithérapeutes et les sportifs de haut niveau plébiscitent cette huile de massage.",
+    "price": 11.45,
+    "photo": "https://e-leclerc.scene7.com/is/image/gtinternet/359620617675700_1?op_sharpen=1&resmode=bilin&wid=500&hei=500",
+    "labels": "[]",
+    "url": "https://www.parapharmacie.leclerc/huile-de-massage-a-l-arnica-200ml"
+  },
+  {
+    "FIELD1": 91,
+    "titre": "Synergie pour diffuseur – Soirée d’été paisible – Pranarôm",
+    "desc": "Personne n’a envie de passer des soirées à l’intérieur, toutes les fenêtres fermées, à fuir les moustiques et autres petites bêtes. Et personne ne veut passer ses soirées à combattre les moustiques et à se gratter. C’est pourquoi, Pranarôm a conçu la synergie soirée d’été paisible. Qu’est-ce qu’une synergie ?. Une synergie est un mélange de différentes huiles essentielles afin de renforcer l’action recherchée. Le but d’une synergie peut être de créer, avec des huiles essentielles aux vertus différentes, un mélange polyvalent ou créer, avec des huiles essentielles aux mêmes vertus, un mélange plus actif. Cette synergie Pranarôm a été élaboré pour être utilisée avec un diffuseur d’huiles essentielles. Composée d’un mélange 100% biologique d’huiles essentielles, elle contient notamment de l’huile essentielle de citronnelle et de géranium. Antibactérien, antiseptique atmosphérique, déodorante, répulsive insecte, anti-moustiques Huile essentielle de géranium : stimulante, antiseptique, repousse les insectes Ce mélange entre l’huile essentielle de citronnelle et de géranium est idéal pour repousser les insectes et plus particulièrement les fourmis et les moustiques. Cette synergie d’huiles essentielles s’utilise uniquement avec des diffuseurs qui ne chauffent pas. Grâce à ce mélange bio pour diffusion, passez des soirées d’été paisibles ! Avec ses notes odorantes à la citronnelle et au géranium, cette synergie apporte une touche odorante agréable à votre habitation. Pour un diffuseur prise, type diffuseur prise Pranarôm (12 à 25 m²) : En suivant les instructions spécifiques au diffuseur prise, vissez directement le flacon de synergie.",
+    "price": 6.89,
+    "photo": "https://www.sens-nature.com/12189-large_default/synergie-diffuseur-soiree-ete-paisible-pranarom.jpg",
+    "labels": "['agriculture_biologique']",
+    "url": "https://www.sens-nature.com/synergie-diffuseur-soiree-ete-paisible-pranarom-9025.html"
+  },
+  {
+    "FIELD1": 92,
+    "titre": "Rhassoul du Maroc (Ghassoul) - Aroma-Zone",
+    "desc": "Véritable terre qui lave, le Rhassoul est une argile volcanique récoltée dans la région du Moyen Atlas au Maroc. Il s'utilise pour préparer des shampooings en pâte doux et purifiants grâce à son aptitude exceptionnelle à absorber les impuretés sans irriter la peau. C'est un élément incontournable des rituels du hammam. A la différence des shampooings et savons, le Rhassoul ne contient aucun tensioactif et nettoie selon un processus physique en absorbant les impuretés et les graisses. Il respecte ainsi le film hydrolipidique de la peau et du cheveu et n'irrite pas les glandes sébacées.",
+    "price": 5.5,
+    "photo": "https://cdn.aroma-zone.com/cms/sites/default/files/fiche_technique/commun/masque-argile.png",
+    "labels": "['one_voice']",
+    "url": "https://www.aroma-zone.com/info/fiche-technique/rhassoul-du-maroc-aroma-zone"
+  },
+  {
+    "FIELD1": 93,
+    "titre": "Combinaison de surf PICTURE Dome 4.3mm Dark Blue - La Green Session",
+    "desc": "Front zip : système de zip avant pour enfiler et retirer la combinaison tout en gardant un maximum de flexibilité Technologie DRY NOW : Tissu intérieur hydrophobe qui évacue l’humidité pour un séchage plus rapide et une meilleure isolation Technologie WPF : Doublure en tricot 3D qui fournit de la chaleur grâce à l’air situé entre les boucles. Plus une densité de tissu plus lourde pour donner plus de confort. Patronage sans coutures sur les zones de mobilité permettant une liberté de mouvement complète des épaules (inspiré du triathlon) Comfort zone : Double épaisseur pour protéger les côtes pendant la rame Trous d’évacuation de l’eau Power grip : revêtement silicone sur les avant-bras pour créer une friction avec l’eau pour améliorer la rame (inspiré du triathlon) Pads genou pour plus de confort et de durabilité Glideskin neck seal : doublure en néoprène ultra-lisse au niveau du cou pour un confort supérieur, empêchant l’eau de pénétrer Coutures étanches recouvertes à l’intérieur par un taping stretch intégral pour plus de chaleur Lamination avec colle à base d’eau Poche clé Impact environnemental : Matériaux utilisés : EICOPRENE Alternative au néoprène composée d’un mélange de calcaire (70%) et de pneus recyclés (30%). L’Eicoprene s’inscrit dans la démarche de Picture pour sortir des énergies fossiles. Transport longue distance par bateau Le transport de marchandises par bateau est 10 fois moins polluant que par camion. Seuls les derniers kilomètres parcourus en France sont réalisés par camion. Allonger au maximum la durée de vie des produits Toujours dans un objectif de réduction de l’impact, la politique SAV de PICTURE privilégie la réparation des produits retournés. Lorsque la réparation n’est pas possible, les produits sont recyclés ou donnés à des associations.",
+    "price": 329,
+    "photo": "https://www.lagreensession.com/wp-content/uploads/2019/03/combinaison-surf-homme-picture-mvt221-dome-darkblue-0-carré-800x800.jpg",
+    "labels": "['1_for_the_planet']",
+    "url": "https://www.lagreensession.com/produit/combinaison-de-surf-picture-dome-4-3-dark-blue/"
+  },
+  {
+    "FIELD1": 94,
+    "titre": "Large bol en bois de Merisier",
+    "desc": "❁ MATIÈRE(S) PREMIÈRE(S) Tous les objets sont en bois, principalement en noyer et merisier. ◉ LIEU(X) DE PRODUCTION L’intégralité de la production est réalisée artisanalement, du bois brut à l’objet fini, dans mon atelier en haute vienne, sur la commune de Dompierre les Eglises. ✂ FABRICATION Entièrement fabriqué à la main. Les “déchets” (copeaux), ne le sont finalement pas, ils sont utilisés par l’artisan et son entourage pour le paillage dans le jardin ainsi que pour les toilettes sèches. ⁂ SANTÉ Le bois est une matière naturel. Celui utilisé n’est pas traité. Tous les produits sont finis à l’huile de pépin de raisin bio qui nourrit le bois en profondeur et protège le bois en surface. ╬ EMBALLAGE ET TRANSPORT Les objets sont soigneusement emballés dans des cartons et protégés par des papiers recyclés. L’article pourrait vous intéresser.",
+    "price": 36,
+    "photo": "https://www.shop.mygreencocoon.com/wp-content/uploads/2019/10/il_794xN.1655293292_jbaw.jpg",
+    "labels": "['made_in_france']",
+    "url": "https://www.shop.mygreencocoon.com/produit/assiette-bol-bois-merisier/"
+  },
+  {
+    "FIELD1": 95,
+    "titre": "Buffet 2 portes 3 tiroirs Nathan CAMIF EDITION",
+    "desc": "Le buffet Nathan CAMIF EDITION, fabriqué en France.- Esthétique : lignes douces pour un design élégant et moderne.- Pratique : 2 portes et 3 tiroirs de…(2 avis)",
+    "price": 899,
+    "photo": "https://www.camif.fr/skin/frontend/camif_matelsom/camif/images/product/cam_lazyholder.jpg",
+    "labels": "['made_in_france', 'programme_for_the_endorsement_of_forest_certification', 'recyclable']",
+    "url": "https://www.camif.fr/buffet-2-portes-3-tiroirs-nathan-edition/p100313361100.html"
+  },
+  {
+    "FIELD1": 96,
+    "titre": "Suspension pétales ancien. - Selency",
+    "desc": "Lustre aux 6 pétales En parfait état Couleur lin Diametre 39cms Longueur maximale du fil électrique 57 cms Lustre aux 6 pétales En parfait état Couleur lin Diametre 39cms Longueur maximale du fil électrique 57 cms Réf. : o30RUlk Dimensions H30 x L39 x P39 Couleur beige Materiaux toile Style vintage.",
+    "price": 58,
+    "photo": "https://selency.imgix.net/c7191e57-f42b-47ef-aef8-eaae6c47be26/suspension-petales-ancien_original.png?bg=0FFF&fit=fill&auto=format%2Ccompress&w=600&h=600&meta_format=product_og",
+    "labels": "[]",
+    "url": "https://www.selency.fr/produit/o30RUlk/suspension-petales-ancien.html"
+  },
+  {
+    "FIELD1": 97,
+    "titre": "Palm 1958 - Rouge - Coussin Made in France - LE PRESSE PAPIER",
+    "desc": "Naviguer entre les Textiles ” Palm 1958 ” est une création originale © Le Presse Papier Nos matières. Nos coussins et tissus au mètre sont disponibles en deux matières de qualité professionnelle, offrant des rendus différents en termes de toucher, de lumière et de texture. Très résistant (30 000 tours Martindale), il est idéal pour la confection de rideaux ou de coussins par exemple, mais ne convient pas pour les assises. Il offre des jeux de lumières et un toucher très doux particulièrement qualitatifs.",
+    "price": 77,
+    "photo": "https://le-presse-papier.fr/wp-content/uploads/2018/03/caraibes-nuit.jpg",
+    "labels": "['made_in_france']",
+    "url": "https://le-presse-papier.fr/produit/palm-1958-rouge-coussin/"
+  },
+  {
+    "FIELD1": 98,
+    "titre": "Rainbow - Wooden rainbow toy different types of wood - Etsy",
+    "desc": "The rainbow is made of different types of wood (oak, ash, pine, beech). The toy is covered with edible linseed oil. Chewing Creativity Hand-Eye Coordination Motor Skills Sequencing 27 cm x 15 cm x 4 cm ♥ In our workshop we make many interesting toys for the early development of.",
+    "price": 27,
+    "photo": "https://i.etsystatic.com/12452495/r/il/d6b1f4/2241047224/il_570xN.2241047224_djgs.jpg",
+    "labels": "[]",
+    "url": "https://www.etsy.com/listing/776370612/rainbowwooden-rainbow-toy-different?ref=hp_prn&cns=1"
+  },
+  {
+    "FIELD1": 99,
+    "titre": "Huile végétale vierge - Noyaux d'Abricot BIO",
+    "desc": "Très riche en vitamine A et en acide linoléique, l’huile de noyaux d’Abricot est réputée pour ses propriétés tonifiantes, raffermissantes et adoucissantes. A l'effet bonne mine, elle est l’alliée des peaux matures, ternes et fatiguées. Très pénétrante, elle est utilisée dans les soins pour redonner éclat et tonus à la peau et pour la régénérer tout en retardant les effets du vieillissement. Huile végétale connue pour son action anti-âge, elle peut aussi être utilisée en tant qu'ingrédient dans une huile de bronzage.",
+    "price": 3.08,
+    "photo": "https://www.joliessence.com/4018-cart_default/huile-vegetale-vierge-d-abricot-bio.jpg",
+    "labels": "['agriculture_biologique', 'no_animal_test', 'cosmebio', 'cosmos_organic', 'forest_stewardship_council', 'recyclable']",
+    "url": "https://www.joliessence.com/huiles-vegetales-bio/31-huile-vegetale-vierge-d-abricot-bio-3760103751656.html"
+  },
+  {
+    "FIELD1": 100,
+    "titre": "The Tribe volta T-shirt - T-shirts - Klow– KLOW",
+    "desc": "Col Rond Fit: Regular Couleur: Blanc Matières: 100% Coton Biologique Made in: Inde Entretien: Éviter de laver trop souvent, préférer l'aération et le pressing. Sinon lavage à froid, 20° ou 30° pour économiser un maximum l'énergie.",
+    "price": 39.9,
+    "photo": "http://cdn.shopify.com/s/files/1/2371/7679/products/img_7244_1200x1200.jpg?v=1585050328",
+    "labels": "['vegan', 'biodegradable', 'global_organic_textile_standard_gots', 'soil_association', 'fairtrade_max_havelaar']",
+    "url": "https://www.klow.co/products/white-logome-short?variant=31512706383974"
+  },
+  {
+    "FIELD1": 101,
+    "titre": "Soutien-Gorge Lila sans armatures -  Nénés Paris - Jours à Venir",
+    "desc": "Le soutien-gorge ultra doux sans armatures ! Yva, est un soutien-gorge ultra doux en fibres 100% recyclées. On adore l'armature qui soutien mais sans coque pour plus de douceur et de naturel ! Tissus certifiés Oeko-Tex 100 et GRS (global recycled standard). Pour voir la culotte Yva, c'est. Les avantages ? 90% d’eau économisée, soit environ 7 baignoires par soutien gorge. -80% de production de CO2 et des milleurs de kilomètres de transport économisés. Parce ce que consommer mieux n'est plus une option, Nénés s'engage à produire localement et de façon raisonnée. La planète te dit merci. Et tes boobs aussi ! 90% Polyamide recyclé 10% Elasthane recyclé La confection est réalisée au Portugal et la fabrication des tissus en Italie avec un mélange de polyamide recyclé et d'élasthane recyclé. Tous les fonds de culotte sont en coton bio recyclé. Lavez à 30°C dans un filet ou à la main avec délicatesse.",
+    "price": 70,
+    "photo": "https://cdn.shopify.com/s/files/1/0054/9765/1318/products/08A2741-2_600x_ab92392c-f467-4026-9a72-38717f1a81a3_600x.jpg?v=1584970916",
+    "labels": "['zero_waste', 'oeko_tex', 'global_recycled_standard']",
+    "url": "https://www.joursavenir.com/products/soutien-gorge-yva-lila"
+  },
+  {
+    "FIELD1": 102,
+    "titre": "Thinking Mu - T- shirt Ain't no sunshine - MaeSue.com",
+    "desc": "T-shirt terracotta Ain't no sunshine est de la marque espagnole Thinking Mu. Le t-shirt est en 100% coton biologique GOTS. Le t-shirt est coloré avec des colorants propres et non toxiques et est végétalien. Conçu à Barcelone et produit équitablement en Inde.",
+    "price": 33.06,
+    "photo": "https://maesue.com/1858-medium_default/thinking-mu-t-shirt-sunshine.jpg",
+    "labels": "['global_organic_textile_standard_gots']",
+    "url": "https://maesue.com/fr/t-shirts-debardeurs/thinking-mu-t-shirt-sunshine"
+  },
+  {
+    "FIELD1": 103,
+    "titre": "My Serenity Liquid",
+    "desc": "L'INTENSE BROWN est un liquide au gout de tabac brun soutenu. Du vapoteur au Driper L'INTENSE BROWN répondra à vos attentes en matière de gout, de qualité et d'intensité voluptueuse de la vapeur.",
+    "price": 5.9,
+    "photo": "https://www.myserenityliquid.com/base/boutiques/39/produits/2.png",
+    "labels": "['origine_france_garantie', 'ok_biobased']",
+    "url": "https://www.myserenityliquid.com/index.adml?p=2&c=33&id=7862720941586255229015"
+  }
+]

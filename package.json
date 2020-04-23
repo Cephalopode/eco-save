@@ -1,0 +1,19 @@
+{
+  "name": "eco-save",
+  "version": "0.0.1",
+  "description": "Find eco-responsible alternatives for online products",
+  "main": "background.js",
+  "scripts": {
+    "css-build": "node-sass --omit-source-map-url scss/modal.scss css/modal.css ",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Paradis",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.2",
+    "jquery": "^3.5.0",
+    "node-sass": "^4.13.1"
+  }
+}
